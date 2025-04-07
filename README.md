@@ -49,12 +49,13 @@ python scripts/main.py \
     --years 2 12 22 32 42 52 \
     --plans FWOA FWMP \
     --scenarios Higher Lower \
-    --structure_csv data/structure_csv/mp23_pdd_clara.structure_info_costs_2024.06.18.csv \
+    --structure_csv data/structure_csv/mp23_pdd_clara_structure_info_costs_2024_06_18.csv \
     --data_path data/ProcessedData \
     --tables_dir scripts/rr2_tables \
+    --output_dir output/
     --column_setup full \
     --insurance \
-    --output_dir output/
+    --occupancy_map data/OccupancyMapping/OccupancytoTypeofUseMapping.csv
 ```
 
 > You can control which buildings to calculate insurance premiums for using the `--insurance` flag. If set, premiums will be calculated only for rows with has_insurance = `Yes` or `1` or `True`.

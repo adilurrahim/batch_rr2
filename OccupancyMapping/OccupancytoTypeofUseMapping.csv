@@ -1,0 +1,41 @@
+﻿DamageCategory,OccupancyTypeName,SubType,Description,TypeofUse
+Residential,RES1,1SNB,"Single Family Residential, 1 story, no basement",Single-Family Home
+Residential,RES1,1SWB,"Single Family Residential, 1 story, with basement",Single-Family Home
+Residential,RES1,2SNB,"Single Family Residential, 2 story, no basement",Single-Family Home
+Residential,RES1,2SWB,"Single Family Residential, 2 story, with basement",Single-Family Home
+Residential,RES1,3SNB,"Single Family Residential, 3 story, no basement",Single-Family Home
+Residential,RES1,3SWB,"Single Family Residential, 3 story, with basement",Single-Family Home
+Residential,RES1,SLNB,"Single Family Residential, split-level, no basement",Single-Family Home
+Residential,RES1,SLWB,"Single Family Residential, split-level, with basement",Single-Family Home
+Residential,RES2,,Manufactured Home,Residential Mobile/Manufactured Home
+Residential,RES3A,,Multi-Family housing 2 units,Two to Four Family Building
+Residential,RES3B,,Multi-Family housing 3-4 units,Two to Four Family Building
+Residential,RES3C,,Multi-Family housing 5-10 units,Other Residential Building
+Residential,RES3D,,Multi-Family housing 10-19 units,Other Residential Building
+Residential,RES3E,,Multi-Family housing 20-50 units,Other Residential Building
+Residential,RES3F,,Multi-Family housing 50 plus units,Other Residential Building
+Residential,RES4,,Average Hotel,Other Residential Building
+Residential,RES5,,Nursing Home,Other Residential Building
+Residential,RES6,,Nursing Home,Other Residential Building
+Commercial,COM1,,Average Retail,Non-Residential Building
+Commercial,COM2,,Average Wholesale,Non-Residential Building
+Commercial,COM3,,Average Personal & Repair Services,Non-Residential Building
+Commercial,COM4,,Average Professional Technical Services,Non-Residential Building
+Commercial,COM5,,Bank,Non-Residential Building
+Commercial,COM6,,Hospital,Non-Residential Building
+Commercial,COM7,,Average Medical Office,Non-Residential Building
+Commercial,COM8,,Average Entertainment/Recreation,Non-Residential Building
+Commercial,COM9,,Average Theater,Non-Residential Building
+Commercial,COM10,,Garage,Non-Residential Building
+Industrial,IND1,,Average Heavy Industrial,Non-Residential Building
+Industrial,IND2,,Average light industrial,Non-Residential Building
+Industrial,IND3,,Average Food/Drug/Chemical,Non-Residential Building
+Industrial,IND4,,Average Metals/Minerals processing,Non-Residential Building
+Industrial,IND5,,Average High Technology,Non-Residential Building
+Industrial,IND6,,Average Construction,Non-Residential Building
+Commercial,AGR1,,Average Agricultural,Non-Residential Building
+Commercial,REL1,,Church,Non-Residential Building
+Public,GOV1,,Average Government Services,Non-Residential Building
+Public,GOV2,,Average Emergency Response,Non-Residential Building
+Public,EDU1,,Average School,Non-Residential Building
+Public,EDU2,,Average College/University,Non-Residential Building

@@ -1,17 +1,17 @@
-# Batch RR2 Model Pipeline
+## Batch RR2 Model Pipeline
 
 This repository contains the **batch_rr2** model pipeline to estimate Risk Rating 2.0 (RR2) flood insurance premiums using CPRA Coastal Master Plan 2023. The code extracts geographic attributes from structure coordinates and computes RR2 premiums.
 
 ---
 
-## 📦 Installation
+### 📦 Installation
 
-### Method 1: With pip (future support planned)
+#### Method 1: With pip (future support planned)
 ```bash
 pip install batch_rr2
 ```
 
-### Method 2: From the source (recommended)
+#### Method 2: From the source (recommended)
 ```bash
 git clone https://github.com/adilurrahim/batch_rr2.git
 cd batch_rr2
@@ -22,35 +22,27 @@ pip install -r requirements.txt
 
 ---
 
-## Getting Started
+### Getting Started
 
-### Step 1: Input Directory Structure
+#### Step 1: Project Structure
 ```
-data/
-├── structure_csv/
-│   └── mp23_pdd_clara_structure_info_costs_2024_06_18.csv
-├── OccupancyMapping/
-│   └── OccupancytoTypeofUseMapping.csv
-├── ProcessedData/
-│   └── CommonData/
-│       ├── County/
-│       ├── CRS/
-│       ├── FlowLine/
-│       ├── RiverPolygon/
-│       └── HUC12/
-│   └── ScenarioSpecificData/
-│       └── 2/
-│           └── FWOA/
-│               └── Lower/
-│                   ├── CoastLine/
-│                   ├── Elevation/
-│                   ├── FloodDepth/
-│                   └── Levee/
+├── data/                     	# Input structure CSVs, occupancy maps, processed data
+├── output/                   	# Output folder for premium calculations
+├── rr2_tables/               	# FEMA RR2 tables (CSV format)
+├── scripts/                  	# Main logic and functions
+│   ├── geographic_attributes.py
+│   ├── helper_functions.py
+│   ├── main.py
+│   ├── rr2_premium_functions.py
+│   └── table_loader.py
+├── infer_scripts/            	# Bash scripts to run example jobs
+├── requirements.txt
+├── README.md
 ```
 
 ---
 
-### Step 2: Run the Pipeline
+#### Step 2: Run the Pipeline
 
 ```bash
 python scripts/main.py \
@@ -69,7 +61,7 @@ python scripts/main.py \
 
 ---
 
-## Customization via CLI
+### Customization via CLI
 
 | Flag | Description |
 |------|-------------|
@@ -86,9 +78,9 @@ python scripts/main.py \
 
 ---
 
-## Output Columns
+### Output Columns
 
-### Column Setup: `premium`
+#### Column Setup: `premium`
 - structure_id
 - Building Premium
 - Contents Premium
@@ -97,7 +89,7 @@ python scripts/main.py \
 - Community Rating Systems Discount
 - Full-Risk Premium
 
-### Column Setup: `full`
+#### Column Setup: `full`
 In addition to the above:
 - County
 - HUC12
@@ -114,25 +106,7 @@ In addition to the above:
 
 ---
 
-## 📁 Project Structure
-```
-├── data/                     	# Input structure CSVs, occupancy maps, processed data
-├── output/                   	# Output folder for premium calculations
-├── rr2_tables/               	# FEMA RR2 tables (CSV format)
-├── scripts/                  	# Main logic and functions
-│   ├── geographic_attributes.py
-│   ├── helper_functions.py
-│   ├── main.py
-│   ├── rr2_premium_functions.py
-│   └── table_loader.py
-├── infer_scripts/            	# Bash scripts to run example jobs
-├── requirements.txt
-├── README.md
-```
-
----
-
-## Python Requirements
+### Python Requirements
 ```
 Python 3.10+
 
@@ -142,7 +116,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📧 Questions?
+### 📧 Questions?
 Open an issue or contact:
 **Md Adilur Rahim**  
 mrahim@agcenter.lsu.edu  

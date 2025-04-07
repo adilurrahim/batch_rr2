@@ -1,0 +1,3238 @@
+State,County,Concentration Risk Territory
+Alabama,Autauga County,H4
+Alabama,Baldwin County,C31
+Alabama,Barbour County,H4
+Alabama,Bibb County,H4
+Alabama,Blount County,H4
+Alabama,Bullock County,H4
+Alabama,Butler County,H4
+Alabama,Calhoun County,H4
+Alabama,Chambers County,H4
+Alabama,Cherokee County,H4
+Alabama,Chilton County,H4
+Alabama,Choctaw County,H4
+Alabama,Clarke County,H4
+Alabama,Clay County,H4
+Alabama,Cleburne County,H4
+Alabama,Coffee County,H4
+Alabama,Colbert County,H16
+Alabama,Conecuh County,H4
+Alabama,Coosa County,H4
+Alabama,Covington County,H4
+Alabama,Crenshaw County,H4
+Alabama,Cullman County,H4
+Alabama,Dale County,H4
+Alabama,Dallas County,H4
+Alabama,DeKalb County,H16
+Alabama,Elmore County,H4
+Alabama,Escambia County,C30
+Alabama,Etowah County,H4
+Alabama,Fayette County,H4
+Alabama,Franklin County,H16
+Alabama,Geneva County,H4
+Alabama,Greene County,H4
+Alabama,Hale County,H4
+Alabama,Henry County,H4
+Alabama,Houston County,H4
+Alabama,Jackson County,H16
+Alabama,Jefferson County,H4
+Alabama,Lamar County,H4
+Alabama,Lauderdale County,H16
+Alabama,Lawrence County,H16
+Alabama,Lee County,H4
+Alabama,Limestone County,H16
+Alabama,Lowndes County,H4
+Alabama,Macon County,H4
+Alabama,Madison County,H16
+Alabama,Marengo County,H4
+Alabama,Marion County,H4
+Alabama,Marshall County,H16
+Alabama,Mobile County,C31
+Alabama,Monroe County,H4
+Alabama,Montgomery County,H4
+Alabama,Morgan County,H16
+Alabama,Perry County,H4
+Alabama,Pickens County,H4
+Alabama,Pike County,H4
+Alabama,Randolph County,H4
+Alabama,Russell County,H4
+Alabama,St. Clair County,H4
+Alabama,Shelby County,H4
+Alabama,Sumter County,H4
+Alabama,Talladega County,H4
+Alabama,Tallapoosa County,H4
+Alabama,Tuscaloosa County,H4
+Alabama,Walker County,H4
+Alabama,Washington County,H4
+Alabama,Wilcox County,H4
+Alabama,Winston County,H4
+Alaska,Aleutians East Borough,H19
+Alaska,Aleutians West Census Area,H19
+Alaska,Anchorage Municipality,H19
+Alaska,Bethel Census Area,H19
+Alaska,Bristol Bay Borough,H19
+Alaska,Denali Borough,H19
+Alaska,Dillingham Census Area,H19
+Alaska,Fairbanks North Star Borough,H19
+Alaska,Haines Borough,H19
+Alaska,Hoonah-Angoon Census Area,H19
+Alaska,Juneau City and Borough,H19
+Alaska,Kenai Peninsula Borough,H19
+Alaska,Ketchikan Gateway Borough,H19
+Alaska,Kodiak Island Borough,H19
+Alaska,Lake and Peninsula Borough,H19
+Alaska,Matanuska-Susitna Borough,H19
+Alaska,Nome Census Area,H19
+Alaska,North Slope Borough,H19
+Alaska,Northwest Arctic Borough,H19
+Alaska,Petersburg Census Area,H19
+Alaska,Prince of Wales-Hyder Census Area,H19
+Alaska,Sitka City and Borough,H19
+Alaska,Skagway Municipality,H19
+Alaska,Southeast Fairbanks Census Area,H19
+Alaska,Valdez-Cordova Census Area,H19
+Alaska,WadeHamptonCensusArea,H19
+Alaska,Kusilvak Census Area,H19
+Alaska,Wrangell City and Borough,H19
+Alaska,Yakutat City and Borough,H19
+Alaska,Yukon-Koyukuk Census Area,H19
+Arizona,Apache County,H8
+Arizona,Cochise County,H8
+Arizona,Coconino County,H8
+Arizona,Gila County,H8
+Arizona,Graham County,H8
+Arizona,Greenlee County,H8
+Arizona,La Paz County,H8
+Arizona,Maricopa County,C39
+Arizona,Mohave County,H8
+Arizona,Navajo County,H8
+Arizona,Pima County,H8
+Arizona,Pinal County,C39
+Arizona,Santa Cruz County,H8
+Arizona,Yavapai County,H8
+Arizona,Yuma County,H8
+Arkansas,Arkansas County,H6
+Arkansas,Ashley County,H6
+Arkansas,Baxter County,H9
+Arkansas,Benton County,H9
+Arkansas,Boone County,H9
+Arkansas,Bradley County,H6
+Arkansas,Calhoun County,H6
+Arkansas,Carroll County,H9
+Arkansas,Chicot County,H6
+Arkansas,Clark County,H6
+Arkansas,Clay County,H6
+Arkansas,Cleburne County,H9
+Arkansas,Cleveland County,H6
+Arkansas,Columbia County,H9
+Arkansas,Conway County,H9
+Arkansas,Craighead County,H6
+Arkansas,Crawford County,H9
+Arkansas,Crittenden County,H6
+Arkansas,Cross County,H6
+Arkansas,Dallas County,H6
+Arkansas,Desha County,H6
+Arkansas,Drew County,H6
+Arkansas,Faulkner County,H9
+Arkansas,Franklin County,H9
+Arkansas,Fulton County,H9
+Arkansas,Garland County,H6
+Arkansas,Grant County,H6
+Arkansas,Greene County,H6
+Arkansas,Hempstead County,H9
+Arkansas,Hot Spring County,H6
+Arkansas,Howard County,H9
+Arkansas,Independence County,H9
+Arkansas,Izard County,H9
+Arkansas,Jackson County,H9
+Arkansas,Jefferson County,H6
+Arkansas,Johnson County,H9
+Arkansas,Lafayette County,H9
+Arkansas,Lawrence County,H9
+Arkansas,Lee County,H6
+Arkansas,Lincoln County,H6
+Arkansas,Little River County,H9
+Arkansas,Logan County,H9
+Arkansas,Lonoke County,H6
+Arkansas,Madison County,H9
+Arkansas,Marion County,H9
+Arkansas,Miller County,H9
+Arkansas,Mississippi County,H6
+Arkansas,Monroe County,H6
+Arkansas,Montgomery County,H6
+Arkansas,Nevada County,H6
+Arkansas,Newton County,H9
+Arkansas,Ouachita County,H6
+Arkansas,Perry County,H9
+Arkansas,Phillips County,H6
+Arkansas,Pike County,H6
+Arkansas,Poinsett County,H6
+Arkansas,Polk County,H9
+Arkansas,Pope County,H9
+Arkansas,Prairie County,H6
+Arkansas,Pulaski County,H9
+Arkansas,Randolph County,H9
+Arkansas,St. Francis County,H6
+Arkansas,Saline County,H6
+Arkansas,Scott County,H9
+Arkansas,Searcy County,H9
+Arkansas,Sebastian County,H9
+Arkansas,Sevier County,H9
+Arkansas,Sharp County,H9
+Arkansas,Stone County,H9
+Arkansas,Union County,H6
+Arkansas,Van Buren County,H9
+Arkansas,Washington County,H9
+Arkansas,White County,H9
+Arkansas,Woodruff County,H6
+Arkansas,Yell County,H9
+California,Alameda County,C17
+California,Alpine County,H8
+California,Amador County,H5
+California,Butte County,H5
+California,Calaveras County,H5
+California,Colusa County,H5
+California,Contra Costa County,C17
+California,Del Norte County,H5
+California,El Dorado County,C16
+California,Fresno County,H5
+California,Glenn County,H5
+California,Humboldt County,H5
+California,Imperial County,H5
+California,Inyo County,H5
+California,Kern County,H5
+California,Kings County,H5
+California,Lake County,H5
+California,Lassen County,H5
+California,Los Angeles County,C20
+California,Madera County,H5
+California,Marin County,C17
+California,Mariposa County,H5
+California,Mendocino County,H5
+California,Merced County,H5
+California,Modoc County,H5
+California,Mono County,H5
+California,Monterey County,H5
+California,Napa County,C17
+California,Nevada County,C16
+California,Orange County,C20
+California,Placer County,C16
+California,Plumas County,H5
+California,Riverside County,C20
+California,Sacramento County,C16
+California,San Benito County,C17
+California,San Bernardino County,C20
+California,San Diego County,H5
+California,San Francisco County,C17
+California,San Joaquin County,C17
+California,San Luis Obispo County,H5
+California,San Mateo County,C17
+California,Santa Barbara County,H5
+California,Santa Clara County,C17
+California,Santa Cruz County,C17
+California,Shasta County,H5
+California,Sierra County,H5
+California,Siskiyou County,H5
+California,Solano County,C17
+California,Sonoma County,C17
+California,Stanislaus County,H5
+California,Sutter County,C16
+California,Tehama County,H5
+California,Trinity County,H5
+California,Tulare County,H5
+California,Tuolumne County,H5
+California,Ventura County,C20
+California,Yolo County,C16
+California,Yuba County,C16
+Colorado,Adams County,C50
+Colorado,Alamosa County,H8
+Colorado,Arapahoe County,C50
+Colorado,Archuleta County,H8
+Colorado,Baca County,H9
+Colorado,Bent County,H9
+Colorado,Boulder County,C50
+Colorado,Broomfield County,C50
+Colorado,Chaffee County,H9
+Colorado,Cheyenne County,H9
+Colorado,Clear Creek County,C50
+Colorado,Conejos County,H8
+Colorado,Costilla County,H8
+Colorado,Crowley County,H9
+Colorado,Custer County,H9
+Colorado,Delta County,H8
+Colorado,Denver County,C50
+Colorado,Dolores County,H8
+Colorado,Douglas County,C50
+Colorado,Eagle County,H8
+Colorado,Elbert County,C50
+Colorado,El Paso County,H9
+Colorado,Fremont County,H9
+Colorado,Garfield County,H8
+Colorado,Gilpin County,C50
+Colorado,Grand County,H8
+Colorado,Gunnison County,H8
+Colorado,Hinsdale County,H8
+Colorado,Huerfano County,H9
+Colorado,Jackson County,H10
+Colorado,Jefferson County,C50
+Colorado,Kiowa County,H9
+Colorado,Kit Carson County,H10
+Colorado,Lake County,H9
+Colorado,La Plata County,H8
+Colorado,Larimer County,H10
+Colorado,Las Animas County,H9
+Colorado,Lincoln County,H9
+Colorado,Logan County,H10
+Colorado,Mesa County,H8
+Colorado,Mineral County,H8
+Colorado,Moffat County,H8
+Colorado,Montezuma County,H8
+Colorado,Montrose County,H8
+Colorado,Morgan County,H10
+Colorado,Otero County,H9
+Colorado,Ouray County,H8
+Colorado,Park County,C50
+Colorado,Phillips County,H10
+Colorado,Pitkin County,H8
+Colorado,Prowers County,H9
+Colorado,Pueblo County,H9
+Colorado,Rio Blanco County,H8
+Colorado,Rio Grande County,H8
+Colorado,Routt County,H8
+Colorado,Saguache County,H8
+Colorado,San Juan County,H8
+Colorado,San Miguel County,H8
+Colorado,Sedgwick County,H10
+Colorado,Summit County,H8
+Colorado,Teller County,H9
+Colorado,Washington County,H10
+Colorado,Weld County,C50
+Colorado,Yuma County,H10
+Connecticut,Fairfield County,C03
+Connecticut,Hartford County,H15
+Connecticut,Litchfield County,C03
+Connecticut,Middlesex County,H15
+Connecticut,New Haven County,C03
+Connecticut,New London County,H15
+Connecticut,Tolland County,H15
+Connecticut,Windham County,C14
+Delaware,Kent County,C08
+Delaware,New Castle County,C08
+Delaware,Sussex County,C18
+District of Columbia,District of Columbia,C22
+Florida,Alachua County,H1
+Florida,Baker County,C11
+Florida,Bay County,C32
+Florida,Bradford County,H4
+Florida,Brevard County,C21
+Florida,Broward County,C01
+Florida,Calhoun County,H4
+Florida,Charlotte County,C07
+Florida,Citrus County,H4
+Florida,Clay County,C11
+Florida,Collier County,C05
+Florida,Columbia County,H4
+Florida,DeSoto County,C07
+Florida,Dixie County,H4
+Florida,Duval County,C11
+Florida,Escambia County,C30
+Florida,Flagler County,C10
+Florida,Franklin County,H4
+Florida,Gadsden County,H4
+Florida,Gilchrist County,H4
+Florida,Glades County,H1
+Florida,Gulf County,C32
+Florida,Hamilton County,H4
+Florida,Hardee County,H4
+Florida,Hendry County,H1
+Florida,Hernando County,C06
+Florida,Highlands County,H1
+Florida,Hillsborough County,C06
+Florida,Holmes County,H4
+Florida,Indian River County,C01
+Florida,Jackson County,H4
+Florida,Jefferson County,H4
+Florida,Lafayette County,H4
+Florida,Lake County,C10
+Florida,Lee County,C05
+Florida,Leon County,H4
+Florida,Levy County,H4
+Florida,Liberty County,H4
+Florida,Madison County,H4
+Florida,Manatee County,C07
+Florida,Marion County,H1
+Florida,Martin County,C01
+Florida,Miami-Dade County,C01
+Florida,Monroe County,C33
+Florida,Nassau County,C11
+Florida,Okaloosa County,C27
+Florida,Okeechobee County,C01
+Florida,Orange County,C10
+Florida,Osceola County,C10
+Florida,Palm Beach County,C01
+Florida,Pasco County,C06
+Florida,Pinellas County,C06
+Florida,Polk County,H4
+Florida,Putnam County,C11
+Florida,St. Johns County,C11
+Florida,St. Lucie County,C01
+Florida,Santa Rosa County,C30
+Florida,Sarasota County,C07
+Florida,Seminole County,C10
+Florida,Sumter County,C10
+Florida,Suwannee County,H4
+Florida,Taylor County,H4
+Florida,Union County,H4
+Florida,Volusia County,C10
+Florida,Wakulla County,H4
+Florida,Walton County,C27
+Florida,Washington County,H4
+Georgia,Appling County,H1
+Georgia,Atkinson County,H1
+Georgia,Bacon County,H1
+Georgia,Baker County,H4
+Georgia,Baldwin County,H1
+Georgia,Banks County,H1
+Georgia,Barrow County,C43
+Georgia,Bartow County,C43
+Georgia,Ben Hill County,H1
+Georgia,Berrien County,H4
+Georgia,Bibb County,H1
+Georgia,Bleckley County,H1
+Georgia,Brantley County,C46
+Georgia,Brooks County,H4
+Georgia,Bryan County,C28
+Georgia,Bulloch County,C28
+Georgia,Burke County,H1
+Georgia,Butts County,C43
+Georgia,Calhoun County,H4
+Georgia,Camden County,C11
+Georgia,Candler County,H1
+Georgia,Carroll County,C43
+Georgia,Catoosa County,H16
+Georgia,Charlton County,H1
+Georgia,Chatham County,C28
+Georgia,Chattahoochee County,H4
+Georgia,Chattooga County,H4
+Georgia,Cherokee County,C43
+Georgia,Clarke County,C43
+Georgia,Clay County,H4
+Georgia,Clayton County,C43
+Georgia,Clinch County,H4
+Georgia,Cobb County,C43
+Georgia,Coffee County,H1
+Georgia,Colquitt County,H4
+Georgia,Columbia County,H1
+Georgia,Cook County,H4
+Georgia,Coweta County,C43
+Georgia,Crawford County,H4
+Georgia,Crisp County,H4
+Georgia,Dade County,H16
+Georgia,Dawson County,C43
+Georgia,Decatur County,H4
+Georgia,DeKalb County,C43
+Georgia,Dodge County,H1
+Georgia,Dooly County,H4
+Georgia,Dougherty County,H4
+Georgia,Douglas County,C43
+Georgia,Early County,H4
+Georgia,Echols County,H4
+Georgia,Effingham County,C28
+Georgia,Elbert County,H1
+Georgia,Emanuel County,H1
+Georgia,Evans County,H1
+Georgia,Fannin County,H16
+Georgia,Fayette County,C43
+Georgia,Floyd County,H4
+Georgia,Forsyth County,C43
+Georgia,Franklin County,H1
+Georgia,Fulton County,C43
+Georgia,Gilmer County,H4
+Georgia,Glascock County,H1
+Georgia,Glynn County,C46
+Georgia,Gordon County,C43
+Georgia,Grady County,H4
+Georgia,Greene County,H1
+Georgia,Gwinnett County,C43
+Georgia,Habersham County,H4
+Georgia,Hall County,C43
+Georgia,Hancock County,H1
+Georgia,Haralson County,C43
+Georgia,Harris County,H4
+Georgia,Hart County,H1
+Georgia,Heard County,C43
+Georgia,Henry County,C43
+Georgia,Houston County,H1
+Georgia,Irwin County,H4
+Georgia,Jackson County,C43
+Georgia,Jasper County,C43
+Georgia,Jeff Davis County,H1
+Georgia,Jefferson County,H1
+Georgia,Jenkins County,H1
+Georgia,Johnson County,H1
+Georgia,Jones County,H1
+Georgia,Lamar County,C43
+Georgia,Lanier County,H4
+Georgia,Laurens County,H1
+Georgia,Lee County,H4
+Georgia,Liberty County,C28
+Georgia,Lincoln County,H1
+Georgia,Long County,C28
+Georgia,Lowndes County,H4
+Georgia,Lumpkin County,H4
+Georgia,McDuffie County,H1
+Georgia,McIntosh County,C46
+Georgia,Macon County,H4
+Georgia,Madison County,C43
+Georgia,Marion County,H4
+Georgia,Meriwether County,C43
+Georgia,Miller County,H4
+Georgia,Mitchell County,H4
+Georgia,Monroe County,H1
+Georgia,Montgomery County,H1
+Georgia,Morgan County,C43
+Georgia,Murray County,H4
+Georgia,Muscogee County,H4
+Georgia,Newton County,C43
+Georgia,Oconee County,C43
+Georgia,Oglethorpe County,C43
+Georgia,Paulding County,C43
+Georgia,Peach County,H1
+Georgia,Pickens County,C43
+Georgia,Pierce County,H1
+Georgia,Pike County,C43
+Georgia,Polk County,C43
+Georgia,Pulaski County,H1
+Georgia,Putnam County,H1
+Georgia,Quitman County,H4
+Georgia,Rabun County,H1
+Georgia,Randolph County,H4
+Georgia,Richmond County,H1
+Georgia,Rockdale County,C43
+Georgia,Schley County,H4
+Georgia,Screven County,H1
+Georgia,Seminole County,H4
+Georgia,Spalding County,C43
+Georgia,Stephens County,H1
+Georgia,Stewart County,H4
+Georgia,Sumter County,H4
+Georgia,Talbot County,H4
+Georgia,Taliaferro County,H1
+Georgia,Tattnall County,H1
+Georgia,Taylor County,H4
+Georgia,Telfair County,H1
+Georgia,Terrell County,H4
+Georgia,Thomas County,H4
+Georgia,Tift County,H4
+Georgia,Toombs County,H1
+Georgia,Towns County,H16
+Georgia,Treutlen County,H1
+Georgia,Troup County,C43
+Georgia,Turner County,H4
+Georgia,Twiggs County,H1
+Georgia,Union County,H16
+Georgia,Upson County,C43
+Georgia,Walker County,H16
+Georgia,Walton County,C43
+Georgia,Ware County,H1
+Georgia,Warren County,H1
+Georgia,Washington County,H1
+Georgia,Wayne County,H1
+Georgia,Webster County,H4
+Georgia,Wheeler County,H1
+Georgia,White County,H4
+Georgia,Whitfield County,H4
+Georgia,Wilcox County,H1
+Georgia,Wilkes County,H1
+Georgia,Wilkinson County,H1
+Georgia,Worth County,H4
+Hawaii,Hawaii County,H18
+Hawaii,Honolulu County,C29
+Hawaii,Kalawao County,C49
+Hawaii,Kauai County,H18
+Hawaii,Maui County,C49
+Idaho,Ada County,H14
+Idaho,Adams County,H14
+Idaho,Bannock County,H14
+Idaho,Bear Lake County,H8
+Idaho,Benewah County,H14
+Idaho,Bingham County,H14
+Idaho,Blaine County,H14
+Idaho,Boise County,H14
+Idaho,Bonner County,H14
+Idaho,Bonneville County,H14
+Idaho,Boundary County,H14
+Idaho,Butte County,H14
+Idaho,Camas County,H14
+Idaho,Canyon County,H14
+Idaho,Caribou County,H14
+Idaho,Cassia County,H14
+Idaho,Clark County,H14
+Idaho,Clearwater County,H14
+Idaho,Custer County,H14
+Idaho,Elmore County,H14
+Idaho,Franklin County,H8
+Idaho,Fremont County,H14
+Idaho,Gem County,H14
+Idaho,Gooding County,H14
+Idaho,Idaho County,H14
+Idaho,Jefferson County,H14
+Idaho,Jerome County,H14
+Idaho,Kootenai County,H14
+Idaho,Latah County,H14
+Idaho,Lemhi County,H14
+Idaho,Lewis County,H14
+Idaho,Lincoln County,H14
+Idaho,Madison County,H14
+Idaho,Minidoka County,H14
+Idaho,Nez Perce County,H14
+Idaho,Oneida County,H8
+Idaho,Owyhee County,H14
+Idaho,Payette County,H14
+Idaho,Power County,H14
+Idaho,Shoshone County,H14
+Idaho,Teton County,H14
+Idaho,Twin Falls County,H14
+Idaho,Valley County,H14
+Idaho,Washington County,H14
+Illinois,Adams County,H11
+Illinois,Alexander County,H11
+Illinois,Bond County,H11
+Illinois,Boone County,H11
+Illinois,Brown County,H11
+Illinois,Bureau County,C34
+Illinois,Calhoun County,H11
+Illinois,Carroll County,H11
+Illinois,Cass County,H11
+Illinois,Champaign County,H12
+Illinois,Christian County,H11
+Illinois,Clark County,H12
+Illinois,Clay County,H12
+Illinois,Clinton County,H11
+Illinois,Coles County,H12
+Illinois,Cook County,C34
+Illinois,Crawford County,H12
+Illinois,Cumberland County,H12
+Illinois,DeKalb County,C34
+Illinois,De Witt County,H11
+Illinois,Douglas County,H12
+Illinois,DuPage County,C34
+Illinois,Edgar County,H12
+Illinois,Edwards County,H12
+Illinois,Effingham County,H12
+Illinois,Fayette County,H11
+Illinois,Ford County,H11
+Illinois,Franklin County,H11
+Illinois,Fulton County,H11
+Illinois,Gallatin County,H12
+Illinois,Greene County,H11
+Illinois,Grundy County,C34
+Illinois,Hamilton County,H12
+Illinois,Hancock County,H11
+Illinois,Hardin County,H12
+Illinois,Henderson County,H11
+Illinois,Henry County,H11
+Illinois,Iroquois County,H11
+Illinois,Jackson County,H11
+Illinois,Jasper County,H12
+Illinois,Jefferson County,H11
+Illinois,Jersey County,H11
+Illinois,Jo Daviess County,H11
+Illinois,Johnson County,H12
+Illinois,Kane County,C34
+Illinois,Kankakee County,C34
+Illinois,Kendall County,C34
+Illinois,Knox County,H11
+Illinois,Lake County,C34
+Illinois,LaSalle County,C34
+Illinois,Lawrence County,H12
+Illinois,Lee County,H11
+Illinois,Livingston County,H11
+Illinois,Logan County,H11
+Illinois,McDonough County,H11
+Illinois,McHenry County,C34
+Illinois,McLean County,H11
+Illinois,Macon County,H11
+Illinois,Macoupin County,H11
+Illinois,Madison County,H11
+Illinois,Marion County,H11
+Illinois,Marshall County,H11
+Illinois,Mason County,H11
+Illinois,Massac County,H12
+Illinois,Menard County,H11
+Illinois,Mercer County,H11
+Illinois,Monroe County,H11
+Illinois,Montgomery County,H11
+Illinois,Morgan County,H11
+Illinois,Moultrie County,H11
+Illinois,Ogle County,H11
+Illinois,Peoria County,H11
+Illinois,Perry County,H11
+Illinois,Piatt County,H11
+Illinois,Pike County,H11
+Illinois,Pope County,H12
+Illinois,Pulaski County,H11
+Illinois,Putnam County,C34
+Illinois,Randolph County,H11
+Illinois,Richland County,H12
+Illinois,Rock Island County,H11
+Illinois,St. Clair County,H11
+Illinois,Saline County,H12
+Illinois,Sangamon County,H11
+Illinois,Schuyler County,H11
+Illinois,Scott County,H11
+Illinois,Shelby County,H11
+Illinois,Stark County,H11
+Illinois,Stephenson County,H11
+Illinois,Tazewell County,H11
+Illinois,Union County,H11
+Illinois,Vermilion County,H12
+Illinois,Wabash County,H12
+Illinois,Warren County,H11
+Illinois,Washington County,H11
+Illinois,Wayne County,H12
+Illinois,White County,H12
+Illinois,Whiteside County,H11
+Illinois,Will County,C34
+Illinois,Williamson County,H11
+Illinois,Winnebago County,H11
+Illinois,Woodford County,H11
+Indiana,Adams County,H2
+Indiana,Allen County,H2
+Indiana,Bartholomew County,H12
+Indiana,Benton County,H12
+Indiana,Blackford County,H12
+Indiana,Boone County,H12
+Indiana,Brown County,H12
+Indiana,Carroll County,H12
+Indiana,Cass County,H12
+Indiana,Clark County,H12
+Indiana,Clay County,H12
+Indiana,Clinton County,H12
+Indiana,Crawford County,H12
+Indiana,Daviess County,H12
+Indiana,Dearborn County,H7
+Indiana,Decatur County,H12
+Indiana,DeKalb County,H2
+Indiana,Delaware County,H12
+Indiana,Dubois County,H12
+Indiana,Elkhart County,H2
+Indiana,Fayette County,H12
+Indiana,Floyd County,H12
+Indiana,Fountain County,H12
+Indiana,Franklin County,H12
+Indiana,Fulton County,H12
+Indiana,Gibson County,H12
+Indiana,Grant County,H12
+Indiana,Greene County,H12
+Indiana,Hamilton County,H12
+Indiana,Hancock County,H12
+Indiana,Harrison County,H12
+Indiana,Hendricks County,H12
+Indiana,Henry County,H12
+Indiana,Howard County,H12
+Indiana,Huntington County,H12
+Indiana,Jackson County,H12
+Indiana,Jasper County,C34
+Indiana,Jay County,H12
+Indiana,Jefferson County,H12
+Indiana,Jennings County,H12
+Indiana,Johnson County,H12
+Indiana,Knox County,H12
+Indiana,Kosciusko County,H12
+Indiana,LaGrange County,H2
+Indiana,Lake County,C34
+Indiana,LaPorte County,C34
+Indiana,Lawrence County,H12
+Indiana,Madison County,H12
+Indiana,Marion County,H12
+Indiana,Marshall County,H11
+Indiana,Martin County,H12
+Indiana,Miami County,H12
+Indiana,Monroe County,H12
+Indiana,Montgomery County,H12
+Indiana,Morgan County,H12
+Indiana,Newton County,C34
+Indiana,Noble County,H2
+Indiana,Ohio County,H7
+Indiana,Orange County,H12
+Indiana,Owen County,H12
+Indiana,Parke County,H12
+Indiana,Perry County,H12
+Indiana,Pike County,H12
+Indiana,Porter County,C34
+Indiana,Posey County,H12
+Indiana,Pulaski County,H12
+Indiana,Putnam County,H12
+Indiana,Randolph County,H12
+Indiana,Ripley County,H7
+Indiana,Rush County,H12
+Indiana,St. Joseph County,H11
+Indiana,Scott County,H12
+Indiana,Shelby County,H12
+Indiana,Spencer County,H12
+Indiana,Starke County,H11
+Indiana,Steuben County,H2
+Indiana,Sullivan County,H12
+Indiana,Switzerland County,H7
+Indiana,Tippecanoe County,H12
+Indiana,Tipton County,H12
+Indiana,Union County,H12
+Indiana,Vanderburgh County,H12
+Indiana,Vermillion County,H12
+Indiana,Vigo County,H12
+Indiana,Wabash County,H12
+Indiana,Warren County,H12
+Indiana,Warrick County,H12
+Indiana,Washington County,H12
+Indiana,Wayne County,H12
+Indiana,Wells County,H12
+Indiana,White County,H12
+Indiana,Whitley County,H12
+Iowa,Adair County,H10
+Iowa,Adams County,H10
+Iowa,Allamakee County,H11
+Iowa,Appanoose County,H10
+Iowa,Audubon County,H10
+Iowa,Benton County,H11
+Iowa,Black Hawk County,H11
+Iowa,Boone County,H11
+Iowa,Bremer County,H11
+Iowa,Buchanan County,H11
+Iowa,Buena Vista County,H11
+Iowa,Butler County,H11
+Iowa,Calhoun County,H11
+Iowa,Carroll County,H11
+Iowa,Cass County,H10
+Iowa,Cedar County,H11
+Iowa,Cerro Gordo County,H11
+Iowa,Cherokee County,H10
+Iowa,Chickasaw County,H11
+Iowa,Clarke County,H11
+Iowa,Clay County,H10
+Iowa,Clayton County,H11
+Iowa,Clinton County,H11
+Iowa,Crawford County,H10
+Iowa,Dallas County,H11
+Iowa,Davis County,H11
+Iowa,Decatur County,H10
+Iowa,Delaware County,H11
+Iowa,Des Moines County,H11
+Iowa,Dickinson County,H10
+Iowa,Dubuque County,H11
+Iowa,Emmet County,H11
+Iowa,Fayette County,H11
+Iowa,Floyd County,H11
+Iowa,Franklin County,H11
+Iowa,Fremont County,H10
+Iowa,Greene County,H11
+Iowa,Grundy County,H11
+Iowa,Guthrie County,H11
+Iowa,Hamilton County,H11
+Iowa,Hancock County,H11
+Iowa,Hardin County,H11
+Iowa,Harrison County,H10
+Iowa,Henry County,H11
+Iowa,Howard County,H11
+Iowa,Humboldt County,H11
+Iowa,Ida County,H10
+Iowa,Iowa County,H11
+Iowa,Jackson County,H11
+Iowa,Jasper County,H11
+Iowa,Jefferson County,H11
+Iowa,Johnson County,H11
+Iowa,Jones County,H11
+Iowa,Keokuk County,H11
+Iowa,Kossuth County,H11
+Iowa,Lee County,H11
+Iowa,Linn County,H11
+Iowa,Louisa County,H11
+Iowa,Lucas County,H11
+Iowa,Lyon County,H10
+Iowa,Madison County,H11
+Iowa,Mahaska County,H11
+Iowa,Marion County,H11
+Iowa,Marshall County,H11
+Iowa,Mills County,H10
+Iowa,Mitchell County,H11
+Iowa,Monona County,H10
+Iowa,Monroe County,H11
+Iowa,Montgomery County,H10
+Iowa,Muscatine County,H11
+Iowa,O'Brien County,H10
+Iowa,Osceola County,H10
+Iowa,Page County,H10
+Iowa,Palo Alto County,H11
+Iowa,Plymouth County,H10
+Iowa,Pocahontas County,H11
+Iowa,Polk County,H11
+Iowa,Pottawattamie County,H10
+Iowa,Poweshiek County,H11
+Iowa,Ringgold County,H10
+Iowa,Sac County,H10
+Iowa,Scott County,H11
+Iowa,Shelby County,H10
+Iowa,Sioux County,H10
+Iowa,Story County,H11
+Iowa,Tama County,H11
+Iowa,Taylor County,H10
+Iowa,Union County,H10
+Iowa,Van Buren County,H11
+Iowa,Wapello County,H11
+Iowa,Warren County,H11
+Iowa,Washington County,H11
+Iowa,Wayne County,H10
+Iowa,Webster County,H11
+Iowa,Winnebago County,H11
+Iowa,Winneshiek County,H11
+Iowa,Woodbury County,H10
+Iowa,Worth County,H11
+Iowa,Wright County,H11
+Kansas,Allen County,H9
+Kansas,Anderson County,H10
+Kansas,Atchison County,H10
+Kansas,Barber County,H9
+Kansas,Barton County,H9
+Kansas,Bourbon County,H10
+Kansas,Brown County,H10
+Kansas,Butler County,H9
+Kansas,Chase County,H9
+Kansas,Chautauqua County,H9
+Kansas,Cherokee County,H9
+Kansas,Cheyenne County,H10
+Kansas,Clark County,H9
+Kansas,Clay County,H10
+Kansas,Cloud County,H10
+Kansas,Coffey County,H9
+Kansas,Comanche County,H9
+Kansas,Cowley County,H9
+Kansas,Crawford County,H9
+Kansas,Decatur County,H10
+Kansas,Dickinson County,H10
+Kansas,Doniphan County,H10
+Kansas,Douglas County,H10
+Kansas,Edwards County,H9
+Kansas,Elk County,H9
+Kansas,Ellis County,H10
+Kansas,Ellsworth County,H10
+Kansas,Finney County,H9
+Kansas,Ford County,H9
+Kansas,Franklin County,H10
+Kansas,Geary County,H10
+Kansas,Gove County,H10
+Kansas,Graham County,H10
+Kansas,Grant County,H9
+Kansas,Gray County,H9
+Kansas,Greeley County,H9
+Kansas,Greenwood County,H9
+Kansas,Hamilton County,H9
+Kansas,Harper County,H9
+Kansas,Harvey County,H9
+Kansas,Haskell County,H9
+Kansas,Hodgeman County,H9
+Kansas,Jackson County,H10
+Kansas,Jefferson County,H10
+Kansas,Jewell County,H10
+Kansas,Johnson County,H10
+Kansas,Kearny County,H9
+Kansas,Kingman County,H9
+Kansas,Kiowa County,H9
+Kansas,Labette County,H9
+Kansas,Lane County,H9
+Kansas,Leavenworth County,H10
+Kansas,Lincoln County,H10
+Kansas,Linn County,H10
+Kansas,Logan County,H10
+Kansas,Lyon County,H9
+Kansas,McPherson County,H9
+Kansas,Marion County,H9
+Kansas,Marshall County,H10
+Kansas,Meade County,H9
+Kansas,Miami County,H10
+Kansas,Mitchell County,H10
+Kansas,Montgomery County,H9
+Kansas,Morris County,H9
+Kansas,Morton County,H9
+Kansas,Nemaha County,H10
+Kansas,Neosho County,H9
+Kansas,Ness County,H9
+Kansas,Norton County,H10
+Kansas,Osage County,H10
+Kansas,Osborne County,H10
+Kansas,Ottawa County,H10
+Kansas,Pawnee County,H9
+Kansas,Phillips County,H10
+Kansas,Pottawatomie County,H10
+Kansas,Pratt County,H9
+Kansas,Rawlins County,H10
+Kansas,Reno County,H9
+Kansas,Republic County,H10
+Kansas,Rice County,H9
+Kansas,Riley County,H10
+Kansas,Rooks County,H10
+Kansas,Rush County,H9
+Kansas,Russell County,H10
+Kansas,Saline County,H10
+Kansas,Scott County,H9
+Kansas,Sedgwick County,H9
+Kansas,Seward County,H9
+Kansas,Shawnee County,H10
+Kansas,Sheridan County,H10
+Kansas,Sherman County,H10
+Kansas,Smith County,H10
+Kansas,Stafford County,H9
+Kansas,Stanton County,H9
+Kansas,Stevens County,H9
+Kansas,Sumner County,H9
+Kansas,Thomas County,H10
+Kansas,Trego County,H10
+Kansas,Wabaunsee County,H10
+Kansas,Wallace County,H10
+Kansas,Washington County,H10
+Kansas,Wichita County,H9
+Kansas,Wilson County,H9
+Kansas,Woodson County,H9
+Kansas,Wyandotte County,H10
+Kentucky,Adair County,H12
+Kentucky,Allen County,H12
+Kentucky,Anderson County,H12
+Kentucky,Ballard County,H12
+Kentucky,Barren County,H12
+Kentucky,Bath County,H12
+Kentucky,Bell County,H12
+Kentucky,Boone County,H7
+Kentucky,Bourbon County,H12
+Kentucky,Boyd County,H7
+Kentucky,Boyle County,H12
+Kentucky,Bracken County,H7
+Kentucky,Breathitt County,H12
+Kentucky,Breckinridge County,H12
+Kentucky,Bullitt County,H12
+Kentucky,Butler County,H12
+Kentucky,Caldwell County,H12
+Kentucky,Calloway County,H16
+Kentucky,Campbell County,H7
+Kentucky,Carlisle County,H6
+Kentucky,Carroll County,H12
+Kentucky,Carter County,H7
+Kentucky,Casey County,H12
+Kentucky,Christian County,H12
+Kentucky,Clark County,H12
+Kentucky,Clay County,H12
+Kentucky,Clinton County,H12
+Kentucky,Crittenden County,H12
+Kentucky,Cumberland County,H12
+Kentucky,Daviess County,H12
+Kentucky,Edmonson County,H12
+Kentucky,Elliott County,H7
+Kentucky,Estill County,H12
+Kentucky,Fayette County,H12
+Kentucky,Fleming County,H12
+Kentucky,Floyd County,H7
+Kentucky,Franklin County,H12
+Kentucky,Fulton County,H6
+Kentucky,Gallatin County,H7
+Kentucky,Garrard County,H12
+Kentucky,Grant County,H12
+Kentucky,Graves County,H6
+Kentucky,Grayson County,H12
+Kentucky,Green County,H12
+Kentucky,Greenup County,H7
+Kentucky,Hancock County,H12
+Kentucky,Hardin County,H12
+Kentucky,Harlan County,H12
+Kentucky,Harrison County,H12
+Kentucky,Hart County,H12
+Kentucky,Henderson County,H12
+Kentucky,Henry County,H12
+Kentucky,Hickman County,H6
+Kentucky,Hopkins County,H12
+Kentucky,Jackson County,H12
+Kentucky,Jefferson County,H12
+Kentucky,Jessamine County,H12
+Kentucky,Johnson County,H7
+Kentucky,Kenton County,H12
+Kentucky,Knott County,H12
+Kentucky,Knox County,H12
+Kentucky,Larue County,H12
+Kentucky,Laurel County,H12
+Kentucky,Lawrence County,H7
+Kentucky,Lee County,H12
+Kentucky,Leslie County,H12
+Kentucky,Letcher County,H12
+Kentucky,Lewis County,H7
+Kentucky,Lincoln County,H12
+Kentucky,Livingston County,H12
+Kentucky,Logan County,H12
+Kentucky,Lyon County,H12
+Kentucky,McCracken County,H12
+Kentucky,McCreary County,H12
+Kentucky,McLean County,H12
+Kentucky,Madison County,H12
+Kentucky,Magoffin County,H12
+Kentucky,Marion County,H12
+Kentucky,Marshall County,H16
+Kentucky,Martin County,H7
+Kentucky,Mason County,H12
+Kentucky,Meade County,H12
+Kentucky,Menifee County,H12
+Kentucky,Mercer County,H12
+Kentucky,Metcalfe County,H12
+Kentucky,Monroe County,H12
+Kentucky,Montgomery County,H12
+Kentucky,Morgan County,H12
+Kentucky,Muhlenberg County,H12
+Kentucky,Nelson County,H12
+Kentucky,Nicholas County,H12
+Kentucky,Ohio County,H12
+Kentucky,Oldham County,H12
+Kentucky,Owen County,H12
+Kentucky,Owsley County,H12
+Kentucky,Pendleton County,H12
+Kentucky,Perry County,H12
+Kentucky,Pike County,H7
+Kentucky,Powell County,H12
+Kentucky,Pulaski County,H12
+Kentucky,Robertson County,H12
+Kentucky,Rockcastle County,H12
+Kentucky,Rowan County,H12
+Kentucky,Russell County,H12
+Kentucky,Scott County,H12
+Kentucky,Shelby County,H12
+Kentucky,Simpson County,H12
+Kentucky,Spencer County,H12
+Kentucky,Taylor County,H12
+Kentucky,Todd County,H12
+Kentucky,Trigg County,H12
+Kentucky,Trimble County,H12
+Kentucky,Union County,H12
+Kentucky,Warren County,H12
+Kentucky,Washington County,H12
+Kentucky,Wayne County,H12
+Kentucky,Webster County,H12
+Kentucky,Whitley County,H12
+Kentucky,Wolfe County,H12
+Kentucky,Woodford County,H12
+Louisiana,Acadia Parish,C23
+Louisiana,Allen Parish,H6
+Louisiana,Ascension Parish,C12
+Louisiana,Assumption Parish,H6
+Louisiana,Avoyelles Parish,H6
+Louisiana,Beauregard Parish,H6
+Louisiana,Bienville Parish,H9
+Louisiana,Bossier Parish,H9
+Louisiana,Caddo Parish,H9
+Louisiana,Calcasieu Parish,C40
+Louisiana,Caldwell Parish,H6
+Louisiana,Cameron Parish,C40
+Louisiana,Catahoula Parish,H6
+Louisiana,Claiborne Parish,H6
+Louisiana,Concordia Parish,H6
+Louisiana,De Soto Parish,H13
+Louisiana,East Baton Rouge Parish,C12
+Louisiana,East Carroll Parish,H6
+Louisiana,East Feliciana Parish,C12
+Louisiana,Evangeline Parish,H6
+Louisiana,Franklin Parish,H6
+Louisiana,Grant Parish,H9
+Louisiana,Iberia Parish,C23
+Louisiana,Iberville Parish,C12
+Louisiana,Jackson Parish,H6
+Louisiana,Jefferson Parish,C04
+Louisiana,Jefferson Davis Parish,C40
+Louisiana,Lafayette Parish,C23
+Louisiana,Lafourche Parish,C35
+Louisiana,La Salle Parish,H6
+Louisiana,Lincoln Parish,H6
+Louisiana,Livingston Parish,C12
+Louisiana,Madison Parish,H6
+Louisiana,Morehouse Parish,H6
+Louisiana,Natchitoches Parish,H9
+Louisiana,Orleans Parish,C04
+Louisiana,Ouachita Parish,H6
+Louisiana,Plaquemines Parish,C04
+Louisiana,Pointe Coupee Parish,C12
+Louisiana,Rapides Parish,H6
+Louisiana,Red River Parish,H9
+Louisiana,Richland Parish,H6
+Louisiana,Sabine Parish,H13
+Louisiana,St. Bernard Parish,C04
+Louisiana,St. Charles Parish,C04
+Louisiana,St. Helena Parish,C12
+Louisiana,St. James Parish,C04
+Louisiana,St. John the Baptist Parish,C04
+Louisiana,St. Landry Parish,C23
+Louisiana,St. Martin Parish,C23
+Louisiana,St. Mary Parish,C23
+Louisiana,St. Tammany Parish,C04
+Louisiana,Tangipahoa Parish,C04
+Louisiana,Tensas Parish,H6
+Louisiana,Terrebonne Parish,C35
+Louisiana,Union Parish,H6
+Louisiana,Vermilion Parish,C23
+Louisiana,Vernon Parish,H6
+Louisiana,Washington Parish,C04
+Louisiana,Webster Parish,H9
+Louisiana,West Baton Rouge Parish,C12
+Louisiana,West Carroll Parish,H6
+Louisiana,West Feliciana Parish,C12
+Louisiana,Winn Parish,H6
+Maine,Androscoggin County,H15
+Maine,Aroostook County,H15
+Maine,Cumberland County,H15
+Maine,Franklin County,H15
+Maine,Hancock County,H15
+Maine,Kennebec County,H15
+Maine,Knox County,H15
+Maine,Lincoln County,H15
+Maine,Oxford County,H15
+Maine,Penobscot County,H15
+Maine,Piscataquis County,H15
+Maine,Sagadahoc County,H15
+Maine,Somerset County,H15
+Maine,Waldo County,H15
+Maine,Washington County,H15
+Maine,York County,H15
+Maryland,Allegany County,H3
+Maryland,Anne Arundel County,C22
+Maryland,Baltimore County,C22
+Maryland,Calvert County,C22
+Maryland,Caroline County,H3
+Maryland,Carroll County,C22
+Maryland,Cecil County,C08
+Maryland,Charles County,C22
+Maryland,Dorchester County,C22
+Maryland,Frederick County,C22
+Maryland,Garrett County,H7
+Maryland,Harford County,C22
+Maryland,Howard County,C22
+Maryland,Kent County,H3
+Maryland,Montgomery County,C22
+Maryland,Prince George's County,C22
+Maryland,Queen Anne's County,C22
+Maryland,St. Mary's County,C22
+Maryland,Somerset County,C18
+Maryland,Talbot County,C22
+Maryland,Washington County,C22
+Maryland,Wicomico County,C18
+Maryland,Worcester County,C18
+Maryland,Baltimore city,C22
+Massachusetts,Barnstable County,C14
+Massachusetts,Berkshire County,H15
+Massachusetts,Bristol County,C14
+Massachusetts,Dukes County,H15
+Massachusetts,Essex County,C14
+Massachusetts,Franklin County,H15
+Massachusetts,Hampden County,H15
+Massachusetts,Hampshire County,H15
+Massachusetts,Middlesex County,C14
+Massachusetts,Nantucket County,H15
+Massachusetts,Norfolk County,C14
+Massachusetts,Plymouth County,C14
+Massachusetts,Suffolk County,C14
+Massachusetts,Worcester County,C14
+Michigan,Alcona County,H2
+Michigan,Alger County,H2
+Michigan,Allegan County,H2
+Michigan,Alpena County,H2
+Michigan,Antrim County,H2
+Michigan,Arenac County,H2
+Michigan,Baraga County,H2
+Michigan,Barry County,H2
+Michigan,Bay County,H2
+Michigan,Benzie County,H2
+Michigan,Berrien County,H2
+Michigan,Branch County,H2
+Michigan,Calhoun County,H2
+Michigan,Cass County,H2
+Michigan,Charlevoix County,H2
+Michigan,Cheboygan County,H2
+Michigan,Chippewa County,H2
+Michigan,Clare County,H2
+Michigan,Clinton County,H2
+Michigan,Crawford County,H2
+Michigan,Delta County,H2
+Michigan,Dickinson County,H2
+Michigan,Eaton County,H2
+Michigan,Emmet County,H2
+Michigan,Genesee County,H2
+Michigan,Gladwin County,H2
+Michigan,Gogebic County,H2
+Michigan,Grand Traverse County,H2
+Michigan,Gratiot County,H2
+Michigan,Hillsdale County,H2
+Michigan,Houghton County,H2
+Michigan,Huron County,H2
+Michigan,Ingham County,H2
+Michigan,Ionia County,H2
+Michigan,Iosco County,H2
+Michigan,Iron County,H2
+Michigan,Isabella County,H2
+Michigan,Jackson County,H2
+Michigan,Kalamazoo County,H2
+Michigan,Kalkaska County,H2
+Michigan,Kent County,H2
+Michigan,Keweenaw County,H2
+Michigan,Lake County,H2
+Michigan,Lapeer County,H2
+Michigan,Leelanau County,H2
+Michigan,Lenawee County,H2
+Michigan,Livingston County,H2
+Michigan,Luce County,H2
+Michigan,Mackinac County,H2
+Michigan,Macomb County,H2
+Michigan,Manistee County,H2
+Michigan,Marquette County,H2
+Michigan,Mason County,H2
+Michigan,Mecosta County,H2
+Michigan,Menominee County,H2
+Michigan,Midland County,H2
+Michigan,Missaukee County,H2
+Michigan,Monroe County,H2
+Michigan,Montcalm County,H2
+Michigan,Montmorency County,H2
+Michigan,Muskegon County,H2
+Michigan,Newaygo County,H2
+Michigan,Oakland County,H2
+Michigan,Oceana County,H2
+Michigan,Ogemaw County,H2
+Michigan,Ontonagon County,H2
+Michigan,Osceola County,H2
+Michigan,Oscoda County,H2
+Michigan,Otsego County,H2
+Michigan,Ottawa County,H2
+Michigan,Presque Isle County,H2
+Michigan,Roscommon County,H2
+Michigan,Saginaw County,H2
+Michigan,St. Clair County,H2
+Michigan,St. Joseph County,H2
+Michigan,Sanilac County,H2
+Michigan,Schoolcraft County,H2
+Michigan,Shiawassee County,H2
+Michigan,Tuscola County,H2
+Michigan,Van Buren County,H2
+Michigan,Washtenaw County,H2
+Michigan,Wayne County,H2
+Michigan,Wexford County,H2
+Minnesota,Aitkin County,H11
+Minnesota,Anoka County,H11
+Minnesota,Becker County,H11
+Minnesota,Beltrami County,H11
+Minnesota,Benton County,H11
+Minnesota,Big Stone County,H11
+Minnesota,Blue Earth County,H11
+Minnesota,Brown County,H11
+Minnesota,Carlton County,H11
+Minnesota,Carver County,H11
+Minnesota,Cass County,H11
+Minnesota,Chippewa County,H11
+Minnesota,Chisago County,H11
+Minnesota,Clay County,H11
+Minnesota,Clearwater County,H11
+Minnesota,Cook County,H2
+Minnesota,Cottonwood County,H11
+Minnesota,Crow Wing County,H11
+Minnesota,Dakota County,H11
+Minnesota,Dodge County,H11
+Minnesota,Douglas County,H11
+Minnesota,Faribault County,H11
+Minnesota,Fillmore County,H11
+Minnesota,Freeborn County,H11
+Minnesota,Goodhue County,H11
+Minnesota,Grant County,H11
+Minnesota,Hennepin County,H11
+Minnesota,Houston County,H11
+Minnesota,Hubbard County,H11
+Minnesota,Isanti County,H11
+Minnesota,Itasca County,H11
+Minnesota,Jackson County,H11
+Minnesota,Kanabec County,H11
+Minnesota,Kandiyohi County,H11
+Minnesota,Kittson County,H11
+Minnesota,Koochiching County,H11
+Minnesota,Lac qui Parle County,H11
+Minnesota,Lake County,H2
+Minnesota,Lake of the Woods County,H11
+Minnesota,Le Sueur County,H11
+Minnesota,Lincoln County,H11
+Minnesota,Lyon County,H11
+Minnesota,McLeod County,H11
+Minnesota,Mahnomen County,H11
+Minnesota,Marshall County,H11
+Minnesota,Martin County,H11
+Minnesota,Meeker County,H11
+Minnesota,Mille Lacs County,H11
+Minnesota,Morrison County,H11
+Minnesota,Mower County,H11
+Minnesota,Murray County,H11
+Minnesota,Nicollet County,H11
+Minnesota,Nobles County,H10
+Minnesota,Norman County,H11
+Minnesota,Olmsted County,H11
+Minnesota,Otter Tail County,H11
+Minnesota,Pennington County,H11
+Minnesota,Pine County,H11
+Minnesota,Pipestone County,H10
+Minnesota,Polk County,H11
+Minnesota,Pope County,H11
+Minnesota,Ramsey County,H11
+Minnesota,Red Lake County,H11
+Minnesota,Redwood County,H11
+Minnesota,Renville County,H11
+Minnesota,Rice County,H11
+Minnesota,Rock County,H10
+Minnesota,Roseau County,H11
+Minnesota,St. Louis County,H2
+Minnesota,Scott County,H11
+Minnesota,Sherburne County,H11
+Minnesota,Sibley County,H11
+Minnesota,Stearns County,H11
+Minnesota,Steele County,H11
+Minnesota,Stevens County,H11
+Minnesota,Swift County,H11
+Minnesota,Todd County,H11
+Minnesota,Traverse County,H11
+Minnesota,Wabasha County,H11
+Minnesota,Wadena County,H11
+Minnesota,Waseca County,H11
+Minnesota,Washington County,H11
+Minnesota,Watonwan County,H11
+Minnesota,Wilkin County,H11
+Minnesota,Winona County,H11
+Minnesota,Wright County,H11
+Minnesota,Yellow Medicine County,H11
+Mississippi,Adams County,H6
+Mississippi,Alcorn County,H6
+Mississippi,Amite County,H6
+Mississippi,Attala County,H6
+Mississippi,Benton County,H6
+Mississippi,Bolivar County,H6
+Mississippi,Calhoun County,H6
+Mississippi,Carroll County,H6
+Mississippi,Chickasaw County,H4
+Mississippi,Choctaw County,H6
+Mississippi,Claiborne County,H6
+Mississippi,Clarke County,H4
+Mississippi,Clay County,H4
+Mississippi,Coahoma County,H6
+Mississippi,Copiah County,H6
+Mississippi,Covington County,H4
+Mississippi,DeSoto County,H6
+Mississippi,Forrest County,H4
+Mississippi,Franklin County,H6
+Mississippi,George County,H4
+Mississippi,Greene County,H4
+Mississippi,Grenada County,H6
+Mississippi,Hancock County,C26
+Mississippi,Harrison County,C26
+Mississippi,Hinds County,H6
+Mississippi,Holmes County,H6
+Mississippi,Humphreys County,H6
+Mississippi,Issaquena County,H6
+Mississippi,Itawamba County,H4
+Mississippi,Jackson County,C26
+Mississippi,Jasper County,H4
+Mississippi,Jefferson County,H6
+Mississippi,Jefferson Davis County,H4
+Mississippi,Jones County,H4
+Mississippi,Kemper County,H4
+Mississippi,Lafayette County,H6
+Mississippi,Lamar County,H4
+Mississippi,Lauderdale County,H4
+Mississippi,Lawrence County,H4
+Mississippi,Leake County,H4
+Mississippi,Lee County,H4
+Mississippi,Leflore County,H6
+Mississippi,Lincoln County,H4
+Mississippi,Lowndes County,H4
+Mississippi,Madison County,H6
+Mississippi,Marion County,H4
+Mississippi,Marshall County,H6
+Mississippi,Monroe County,H4
+Mississippi,Montgomery County,H6
+Mississippi,Neshoba County,H4
+Mississippi,Newton County,H4
+Mississippi,Noxubee County,H4
+Mississippi,Oktibbeha County,H4
+Mississippi,Panola County,H6
+Mississippi,Pearl River County,C04
+Mississippi,Perry County,H4
+Mississippi,Pike County,H6
+Mississippi,Pontotoc County,H6
+Mississippi,Prentiss County,H4
+Mississippi,Quitman County,H6
+Mississippi,Rankin County,H4
+Mississippi,Scott County,H4
+Mississippi,Sharkey County,H6
+Mississippi,Simpson County,H4
+Mississippi,Smith County,H4
+Mississippi,Stone County,H4
+Mississippi,Sunflower County,H6
+Mississippi,Tallahatchie County,H6
+Mississippi,Tate County,H6
+Mississippi,Tippah County,H6
+Mississippi,Tishomingo County,H16
+Mississippi,Tunica County,H6
+Mississippi,Union County,H6
+Mississippi,Walthall County,H4
+Mississippi,Warren County,H6
+Mississippi,Washington County,H6
+Mississippi,Wayne County,H4
+Mississippi,Webster County,H6
+Mississippi,Wilkinson County,H6
+Mississippi,Winston County,H4
+Mississippi,Yalobusha County,H6
+Mississippi,Yazoo County,H6
+Missouri,Adair County,H10
+Missouri,Andrew County,H10
+Missouri,Atchison County,H10
+Missouri,Audrain County,H11
+Missouri,Barry County,H9
+Missouri,Barton County,H9
+Missouri,Bates County,H10
+Missouri,Benton County,H10
+Missouri,Bollinger County,H11
+Missouri,Boone County,H10
+Missouri,Buchanan County,H10
+Missouri,Butler County,H9
+Missouri,Caldwell County,H10
+Missouri,Callaway County,H10
+Missouri,Camden County,H10
+Missouri,Cape Girardeau County,H11
+Missouri,Carroll County,H10
+Missouri,Carter County,H9
+Missouri,Cass County,H10
+Missouri,Cedar County,H10
+Missouri,Chariton County,H10
+Missouri,Christian County,H9
+Missouri,Clark County,H11
+Missouri,Clay County,H10
+Missouri,Clinton County,H10
+Missouri,Cole County,H10
+Missouri,Cooper County,H10
+Missouri,Crawford County,H11
+Missouri,Dade County,H10
+Missouri,Dallas County,H10
+Missouri,Daviess County,H10
+Missouri,DeKalb County,H10
+Missouri,Dent County,H11
+Missouri,Douglas County,H9
+Missouri,Dunklin County,H6
+Missouri,Franklin County,H11
+Missouri,Gasconade County,H10
+Missouri,Gentry County,H10
+Missouri,Greene County,H10
+Missouri,Grundy County,H10
+Missouri,Harrison County,H10
+Missouri,Henry County,H10
+Missouri,Hickory County,H10
+Missouri,Holt County,H10
+Missouri,Howard County,H10
+Missouri,Howell County,H9
+Missouri,Iron County,H6
+Missouri,Jackson County,H10
+Missouri,Jasper County,H9
+Missouri,Jefferson County,H11
+Missouri,Johnson County,H10
+Missouri,Knox County,H11
+Missouri,Laclede County,H10
+Missouri,Lafayette County,H10
+Missouri,Lawrence County,H9
+Missouri,Lewis County,H11
+Missouri,Lincoln County,H11
+Missouri,Linn County,H10
+Missouri,Livingston County,H10
+Missouri,McDonald County,H9
+Missouri,Macon County,H10
+Missouri,Madison County,H6
+Missouri,Maries County,H10
+Missouri,Marion County,H11
+Missouri,Mercer County,H10
+Missouri,Miller County,H10
+Missouri,Mississippi County,H6
+Missouri,Moniteau County,H10
+Missouri,Monroe County,H11
+Missouri,Montgomery County,H11
+Missouri,Morgan County,H10
+Missouri,New Madrid County,H6
+Missouri,Newton County,H9
+Missouri,Nodaway County,H10
+Missouri,Oregon County,H9
+Missouri,Osage County,H10
+Missouri,Ozark County,H9
+Missouri,Pemiscot County,H6
+Missouri,Perry County,H11
+Missouri,Pettis County,H10
+Missouri,Phelps County,H10
+Missouri,Pike County,H11
+Missouri,Platte County,H10
+Missouri,Polk County,H10
+Missouri,Pulaski County,H10
+Missouri,Putnam County,H10
+Missouri,Ralls County,H11
+Missouri,Randolph County,H10
+Missouri,Ray County,H10
+Missouri,Reynolds County,H9
+Missouri,Ripley County,H9
+Missouri,St. Charles County,H11
+Missouri,St. Clair County,H10
+Missouri,Ste. Genevieve County,H11
+Missouri,St. Francois County,H11
+Missouri,St. Louis County,H11
+Missouri,Saline County,H10
+Missouri,Schuyler County,H11
+Missouri,Scotland County,H11
+Missouri,Scott County,H6
+Missouri,Shannon County,H9
+Missouri,Shelby County,H11
+Missouri,Stoddard County,H6
+Missouri,Stone County,H9
+Missouri,Sullivan County,H10
+Missouri,Taney County,H9
+Missouri,Texas County,H10
+Missouri,Vernon County,H10
+Missouri,Warren County,H10
+Missouri,Washington County,H11
+Missouri,Wayne County,H6
+Missouri,Webster County,H10
+Missouri,Worth County,H10
+Missouri,Wright County,H10
+Missouri,St. Louis city,H11
+Montana,Beaverhead County,H10
+Montana,Big Horn County,H10
+Montana,Blaine County,H10
+Montana,Broadwater County,H10
+Montana,Carbon County,H10
+Montana,Carter County,H10
+Montana,Cascade County,H10
+Montana,Chouteau County,H10
+Montana,Custer County,H10
+Montana,Daniels County,H10
+Montana,Dawson County,H10
+Montana,Deer Lodge County,H14
+Montana,Fallon County,H10
+Montana,Fergus County,H10
+Montana,Flathead County,H14
+Montana,Gallatin County,H10
+Montana,Garfield County,H10
+Montana,Glacier County,H10
+Montana,Golden Valley County,H10
+Montana,Granite County,H14
+Montana,Hill County,H10
+Montana,Jefferson County,H10
+Montana,Judith Basin County,H10
+Montana,Lake County,H14
+Montana,Lewis and Clark County,H10
+Montana,Liberty County,H10
+Montana,Lincoln County,H14
+Montana,McCone County,H10
+Montana,Madison County,H10
+Montana,Meagher County,H10
+Montana,Mineral County,H14
+Montana,Missoula County,H14
+Montana,Musselshell County,H10
+Montana,Park County,H10
+Montana,Petroleum County,H10
+Montana,Phillips County,H10
+Montana,Pondera County,H10
+Montana,Powder River County,H10
+Montana,Powell County,H14
+Montana,Prairie County,H10
+Montana,Ravalli County,H14
+Montana,Richland County,H10
+Montana,Roosevelt County,H10
+Montana,Rosebud County,H10
+Montana,Sanders County,H14
+Montana,Sheridan County,H10
+Montana,Silver Bow County,H14
+Montana,Stillwater County,H10
+Montana,Sweet Grass County,H10
+Montana,Teton County,H10
+Montana,Toole County,H10
+Montana,Treasure County,H10
+Montana,Valley County,H10
+Montana,Wheatland County,H10
+Montana,Wibaux County,H10
+Montana,Yellowstone County,H10
+Nebraska,Adams County,H10
+Nebraska,Antelope County,H10
+Nebraska,Arthur County,H10
+Nebraska,Banner County,H10
+Nebraska,Blaine County,H10
+Nebraska,Boone County,H10
+Nebraska,Box Butte County,H10
+Nebraska,Boyd County,H10
+Nebraska,Brown County,H10
+Nebraska,Buffalo County,H10
+Nebraska,Burt County,H10
+Nebraska,Butler County,H10
+Nebraska,Cass County,H10
+Nebraska,Cedar County,H10
+Nebraska,Chase County,H10
+Nebraska,Cherry County,H10
+Nebraska,Cheyenne County,H10
+Nebraska,Clay County,H10
+Nebraska,Colfax County,H10
+Nebraska,Cuming County,H10
+Nebraska,Custer County,H10
+Nebraska,Dakota County,H10
+Nebraska,Dawes County,H10
+Nebraska,Dawson County,H10
+Nebraska,Deuel County,H10
+Nebraska,Dixon County,H10
+Nebraska,Dodge County,H10
+Nebraska,Douglas County,H10
+Nebraska,Dundy County,H10
+Nebraska,Fillmore County,H10
+Nebraska,Franklin County,H10
+Nebraska,Frontier County,H10
+Nebraska,Furnas County,H10
+Nebraska,Gage County,H10
+Nebraska,Garden County,H10
+Nebraska,Garfield County,H10
+Nebraska,Gosper County,H10
+Nebraska,Grant County,H10
+Nebraska,Greeley County,H10
+Nebraska,Hall County,H10
+Nebraska,Hamilton County,H10
+Nebraska,Harlan County,H10
+Nebraska,Hayes County,H10
+Nebraska,Hitchcock County,H10
+Nebraska,Holt County,H10
+Nebraska,Hooker County,H10
+Nebraska,Howard County,H10
+Nebraska,Jefferson County,H10
+Nebraska,Johnson County,H10
+Nebraska,Kearney County,H10
+Nebraska,Keith County,H10
+Nebraska,Keya Paha County,H10
+Nebraska,Kimball County,H10
+Nebraska,Knox County,H10
+Nebraska,Lancaster County,H10
+Nebraska,Lincoln County,H10
+Nebraska,Logan County,H10
+Nebraska,Loup County,H10
+Nebraska,McPherson County,H10
+Nebraska,Madison County,H10
+Nebraska,Merrick County,H10
+Nebraska,Morrill County,H10
+Nebraska,Nance County,H10
+Nebraska,Nemaha County,H10
+Nebraska,Nuckolls County,H10
+Nebraska,Otoe County,H10
+Nebraska,Pawnee County,H10
+Nebraska,Perkins County,H10
+Nebraska,Phelps County,H10
+Nebraska,Pierce County,H10
+Nebraska,Platte County,H10
+Nebraska,Polk County,H10
+Nebraska,Red Willow County,H10
+Nebraska,Richardson County,H10
+Nebraska,Rock County,H10
+Nebraska,Saline County,H10
+Nebraska,Sarpy County,H10
+Nebraska,Saunders County,H10
+Nebraska,Scotts Bluff County,H10
+Nebraska,Seward County,H10
+Nebraska,Sheridan County,H10
+Nebraska,Sherman County,H10
+Nebraska,Sioux County,H10
+Nebraska,Stanton County,H10
+Nebraska,Thayer County,H10
+Nebraska,Thomas County,H10
+Nebraska,Thurston County,H10
+Nebraska,Valley County,H10
+Nebraska,Washington County,H10
+Nebraska,Wayne County,H10
+Nebraska,Webster County,H10
+Nebraska,Wheeler County,H10
+Nebraska,York County,H10
+Nevada,Churchill County,H8
+Nevada,Clark County,H8
+Nevada,Douglas County,H8
+Nevada,Elko County,H8
+Nevada,Esmeralda County,H8
+Nevada,Eureka County,H8
+Nevada,Humboldt County,H8
+Nevada,Lander County,H8
+Nevada,Lincoln County,H8
+Nevada,Lyon County,H8
+Nevada,Mineral County,H8
+Nevada,Nye County,H8
+Nevada,Pershing County,H8
+Nevada,Storey County,H8
+Nevada,Washoe County,H8
+Nevada,White Pine County,H8
+Nevada,Carson City,H8
+New Hampshire,Belknap County,C14
+New Hampshire,Carroll County,H15
+New Hampshire,Cheshire County,H15
+New Hampshire,Coos County,H15
+New Hampshire,Grafton County,H15
+New Hampshire,Hillsborough County,C14
+New Hampshire,Merrimack County,C14
+New Hampshire,Rockingham County,C14
+New Hampshire,Strafford County,C14
+New Hampshire,Sullivan County,H15
+New Jersey,Atlantic County,C08
+New Jersey,Bergen County,C03
+New Jersey,Burlington County,C08
+New Jersey,Camden County,C08
+New Jersey,Cape May County,C08
+New Jersey,Cumberland County,C08
+New Jersey,Essex County,C03
+New Jersey,Gloucester County,C08
+New Jersey,Hudson County,C03
+New Jersey,Hunterdon County,C03
+New Jersey,Mercer County,C03
+New Jersey,Middlesex County,C03
+New Jersey,Monmouth County,C03
+New Jersey,Morris County,C03
+New Jersey,Ocean County,C03
+New Jersey,Passaic County,C03
+New Jersey,Salem County,C08
+New Jersey,Somerset County,C03
+New Jersey,Sussex County,C03
+New Jersey,Union County,C03
+New Jersey,Warren County,C03
+New Mexico,Bernalillo County,H8
+New Mexico,Catron County,H8
+New Mexico,Chaves County,H8
+New Mexico,Cibola County,H8
+New Mexico,Colfax County,H9
+New Mexico,Curry County,H13
+New Mexico,De Baca County,H8
+New Mexico,Dona Ana County,H8
+New Mexico,Eddy County,H8
+New Mexico,Grant County,H8
+New Mexico,Guadalupe County,H8
+New Mexico,Harding County,H9
+New Mexico,Hidalgo County,H8
+New Mexico,Lea County,H13
+New Mexico,Lincoln County,H8
+New Mexico,Los Alamos County,H8
+New Mexico,Luna County,H8
+New Mexico,McKinley County,H8
+New Mexico,Mora County,H9
+New Mexico,Otero County,H8
+New Mexico,Quay County,H9
+New Mexico,Rio Arriba County,H8
+New Mexico,Roosevelt County,H13
+New Mexico,Sandoval County,H8
+New Mexico,San Juan County,H8
+New Mexico,San Miguel County,H9
+New Mexico,Santa Fe County,H8
+New Mexico,Sierra County,H8
+New Mexico,Socorro County,H8
+New Mexico,Taos County,H8
+New Mexico,Torrance County,H8
+New Mexico,Union County,H9
+New Mexico,Valencia County,H8
+New York,Albany County,H3
+New York,Allegany County,H2
+New York,Bronx County,C03
+New York,Broome County,H3
+New York,Cattaraugus County,H7
+New York,Cayuga County,H2
+New York,Chautauqua County,H7
+New York,Chemung County,H3
+New York,Chenango County,H3
+New York,Clinton County,H2
+New York,Columbia County,H3
+New York,Cortland County,H3
+New York,Delaware County,H3
+New York,Dutchess County,C03
+New York,Erie County,H2
+New York,Essex County,H2
+New York,Franklin County,H2
+New York,Fulton County,H3
+New York,Genesee County,H2
+New York,Greene County,H3
+New York,Hamilton County,H3
+New York,Herkimer County,H3
+New York,Jefferson County,H2
+New York,Kings County,C03
+New York,Lewis County,H2
+New York,Livingston County,H2
+New York,Madison County,H3
+New York,Monroe County,H2
+New York,Montgomery County,H3
+New York,Nassau County,C03
+New York,New York County,C03
+New York,Niagara County,H2
+New York,Oneida County,H2
+New York,Onondaga County,H2
+New York,Ontario County,H2
+New York,Orange County,C03
+New York,Orleans County,H2
+New York,Oswego County,H2
+New York,Otsego County,H3
+New York,Putnam County,C03
+New York,Queens County,C03
+New York,Rensselaer County,H3
+New York,Richmond County,C03
+New York,Rockland County,C03
+New York,St. Lawrence County,H2
+New York,Saratoga County,H3
+New York,Schenectady County,H3
+New York,Schoharie County,H3
+New York,Schuyler County,H2
+New York,Seneca County,H2
+New York,Steuben County,H3
+New York,Suffolk County,C03
+New York,Sullivan County,H3
+New York,Tioga County,H3
+New York,Tompkins County,H2
+New York,Ulster County,C03
+New York,Warren County,H3
+New York,Washington County,H3
+New York,Wayne County,H2
+New York,Westchester County,C03
+New York,Wyoming County,H2
+New York,Yates County,H2
+North Carolina,Alamance County,H1
+North Carolina,Alexander County,H1
+North Carolina,Alleghany County,H7
+North Carolina,Anson County,H1
+North Carolina,Ashe County,H7
+North Carolina,Avery County,H16
+North Carolina,Beaufort County,H1
+North Carolina,Bertie County,H1
+North Carolina,Bladen County,H1
+North Carolina,Brunswick County,C15
+North Carolina,Buncombe County,H16
+North Carolina,Burke County,H1
+North Carolina,Cabarrus County,H1
+North Carolina,Caldwell County,H1
+North Carolina,Camden County,C09
+North Carolina,Carteret County,C38
+North Carolina,Caswell County,H1
+North Carolina,Catawba County,H1
+North Carolina,Chatham County,H1
+North Carolina,Cherokee County,H16
+North Carolina,Chowan County,H1
+North Carolina,Clay County,H16
+North Carolina,Cleveland County,H1
+North Carolina,Columbus County,H1
+North Carolina,Craven County,C38
+North Carolina,Cumberland County,H1
+North Carolina,Currituck County,C09
+North Carolina,Dare County,C09
+North Carolina,Davidson County,H1
+North Carolina,Davie County,H1
+North Carolina,Duplin County,H1
+North Carolina,Durham County,H1
+North Carolina,Edgecombe County,H1
+North Carolina,Forsyth County,H1
+North Carolina,Franklin County,H1
+North Carolina,Gaston County,H1
+North Carolina,Gates County,C09
+North Carolina,Graham County,H16
+North Carolina,Granville County,H1
+North Carolina,Greene County,H1
+North Carolina,Guilford County,H1
+North Carolina,Halifax County,H1
+North Carolina,Harnett County,H1
+North Carolina,Haywood County,H16
+North Carolina,Henderson County,H16
+North Carolina,Hertford County,H1
+North Carolina,Hoke County,H1
+North Carolina,Hyde County,H1
+North Carolina,Iredell County,H1
+North Carolina,Jackson County,H16
+North Carolina,Johnston County,H1
+North Carolina,Jones County,C38
+North Carolina,Lee County,H1
+North Carolina,Lenoir County,H1
+North Carolina,Lincoln County,H1
+North Carolina,McDowell County,H1
+North Carolina,Macon County,H16
+North Carolina,Madison County,H16
+North Carolina,Martin County,H1
+North Carolina,Mecklenburg County,H1
+North Carolina,Mitchell County,H16
+North Carolina,Montgomery County,H1
+North Carolina,Moore County,H1
+North Carolina,Nash County,H1
+North Carolina,New Hanover County,C42
+North Carolina,Northampton County,H1
+North Carolina,Onslow County,H1
+North Carolina,Orange County,H1
+North Carolina,Pamlico County,C38
+North Carolina,Pasquotank County,C09
+North Carolina,Pender County,C42
+North Carolina,Perquimans County,C09
+North Carolina,Person County,H1
+North Carolina,Pitt County,H1
+North Carolina,Polk County,H1
+North Carolina,Randolph County,H1
+North Carolina,Richmond County,H1
+North Carolina,Robeson County,H1
+North Carolina,Rockingham County,H1
+North Carolina,Rowan County,H1
+North Carolina,Rutherford County,H1
+North Carolina,Sampson County,H1
+North Carolina,Scotland County,H1
+North Carolina,Stanly County,H1
+North Carolina,Stokes County,H1
+North Carolina,Surry County,H1
+North Carolina,Swain County,H16
+North Carolina,Transylvania County,H16
+North Carolina,Tyrrell County,C09
+North Carolina,Union County,H1
+North Carolina,Vance County,H1
+North Carolina,Wake County,H1
+North Carolina,Warren County,H1
+North Carolina,Washington County,H1
+North Carolina,Watauga County,H16
+North Carolina,Wayne County,H1
+North Carolina,Wilkes County,H1
+North Carolina,Wilson County,H1
+North Carolina,Yadkin County,H1
+North Carolina,Yancey County,H16
+North Dakota,Adams County,H10
+North Dakota,Barnes County,H11
+North Dakota,Benson County,H11
+North Dakota,Billings County,H10
+North Dakota,Bottineau County,H11
+North Dakota,Bowman County,H10
+North Dakota,Burke County,H11
+North Dakota,Burleigh County,H10
+North Dakota,Cass County,H11
+North Dakota,Cavalier County,H11
+North Dakota,Dickey County,H10
+North Dakota,Divide County,H10
+North Dakota,Dunn County,H10
+North Dakota,Eddy County,H11
+North Dakota,Emmons County,H10
+North Dakota,Foster County,H10
+North Dakota,Golden Valley County,H10
+North Dakota,Grand Forks County,H11
+North Dakota,Grant County,H10
+North Dakota,Griggs County,H11
+North Dakota,Hettinger County,H10
+North Dakota,Kidder County,H10
+North Dakota,LaMoure County,H10
+North Dakota,Logan County,H10
+North Dakota,McHenry County,H11
+North Dakota,McIntosh County,H10
+North Dakota,McKenzie County,H10
+North Dakota,McLean County,H10
+North Dakota,Mercer County,H10
+North Dakota,Morton County,H10
+North Dakota,Mountrail County,H10
+North Dakota,Nelson County,H11
+North Dakota,Oliver County,H10
+North Dakota,Pembina County,H11
+North Dakota,Pierce County,H11
+North Dakota,Ramsey County,H11
+North Dakota,Ransom County,H11
+North Dakota,Renville County,H11
+North Dakota,Richland County,H11
+North Dakota,Rolette County,H11
+North Dakota,Sargent County,H11
+North Dakota,Sheridan County,H11
+North Dakota,Sioux County,H10
+North Dakota,Slope County,H10
+North Dakota,Stark County,H10
+North Dakota,Steele County,H11
+North Dakota,Stutsman County,H10
+North Dakota,Towner County,H11
+North Dakota,Traill County,H11
+North Dakota,Walsh County,H11
+North Dakota,Ward County,H11
+North Dakota,Wells County,H10
+North Dakota,Williams County,H10
+Ohio,Adams County,H7
+Ohio,Allen County,H2
+Ohio,Ashland County,H7
+Ohio,Ashtabula County,H2
+Ohio,Athens County,H7
+Ohio,Auglaize County,H2
+Ohio,Belmont County,H7
+Ohio,Brown County,H7
+Ohio,Butler County,H12
+Ohio,Carroll County,H7
+Ohio,Champaign County,H12
+Ohio,Clark County,H12
+Ohio,Clermont County,H7
+Ohio,Clinton County,H7
+Ohio,Columbiana County,H7
+Ohio,Coshocton County,H7
+Ohio,Crawford County,H2
+Ohio,Cuyahoga County,H2
+Ohio,Darke County,H12
+Ohio,Defiance County,H2
+Ohio,Delaware County,H7
+Ohio,Erie County,H2
+Ohio,Fairfield County,H7
+Ohio,Fayette County,H7
+Ohio,Franklin County,H7
+Ohio,Fulton County,H2
+Ohio,Gallia County,H7
+Ohio,Geauga County,H2
+Ohio,Greene County,H7
+Ohio,Guernsey County,H7
+Ohio,Hamilton County,H7
+Ohio,Hancock County,H2
+Ohio,Hardin County,H7
+Ohio,Harrison County,H7
+Ohio,Henry County,H2
+Ohio,Highland County,H7
+Ohio,Hocking County,H7
+Ohio,Holmes County,H7
+Ohio,Huron County,H2
+Ohio,Jackson County,H7
+Ohio,Jefferson County,H7
+Ohio,Knox County,H7
+Ohio,Lake County,H2
+Ohio,Lawrence County,H7
+Ohio,Licking County,H7
+Ohio,Logan County,H12
+Ohio,Lorain County,H2
+Ohio,Lucas County,H2
+Ohio,Madison County,H7
+Ohio,Mahoning County,H7
+Ohio,Marion County,H7
+Ohio,Medina County,H2
+Ohio,Meigs County,H7
+Ohio,Mercer County,H12
+Ohio,Miami County,H12
+Ohio,Monroe County,H7
+Ohio,Montgomery County,H12
+Ohio,Morgan County,H7
+Ohio,Morrow County,H7
+Ohio,Muskingum County,H7
+Ohio,Noble County,H7
+Ohio,Ottawa County,H2
+Ohio,Paulding County,H2
+Ohio,Perry County,H7
+Ohio,Pickaway County,H7
+Ohio,Pike County,H7
+Ohio,Portage County,H7
+Ohio,Preble County,H12
+Ohio,Putnam County,H2
+Ohio,Richland County,H7
+Ohio,Ross County,H7
+Ohio,Sandusky County,H2
+Ohio,Scioto County,H7
+Ohio,Seneca County,H2
+Ohio,Shelby County,H12
+Ohio,Stark County,H7
+Ohio,Summit County,H2
+Ohio,Trumbull County,H7
+Ohio,Tuscarawas County,H7
+Ohio,Union County,H7
+Ohio,Van Wert County,H2
+Ohio,Vinton County,H7
+Ohio,Warren County,H7
+Ohio,Washington County,H7
+Ohio,Wayne County,H7
+Ohio,Williams County,H2
+Ohio,Wood County,H2
+Ohio,Wyandot County,H2
+Oklahoma,Adair County,H9
+Oklahoma,Alfalfa County,H9
+Oklahoma,Atoka County,H9
+Oklahoma,Beaver County,H9
+Oklahoma,Beckham County,H9
+Oklahoma,Blaine County,H9
+Oklahoma,Bryan County,C36
+Oklahoma,Caddo County,H9
+Oklahoma,Canadian County,H9
+Oklahoma,Carter County,H9
+Oklahoma,Cherokee County,H9
+Oklahoma,Choctaw County,H9
+Oklahoma,Cimarron County,H9
+Oklahoma,Cleveland County,H9
+Oklahoma,Coal County,H9
+Oklahoma,Comanche County,H9
+Oklahoma,Cotton County,H9
+Oklahoma,Craig County,H9
+Oklahoma,Creek County,H9
+Oklahoma,Custer County,H9
+Oklahoma,Delaware County,H9
+Oklahoma,Dewey County,H9
+Oklahoma,Ellis County,H9
+Oklahoma,Garfield County,H9
+Oklahoma,Garvin County,H9
+Oklahoma,Grady County,H9
+Oklahoma,Grant County,H9
+Oklahoma,Greer County,H9
+Oklahoma,Harmon County,H9
+Oklahoma,Harper County,H9
+Oklahoma,Haskell County,H9
+Oklahoma,Hughes County,H9
+Oklahoma,Jackson County,H9
+Oklahoma,Jefferson County,H9
+Oklahoma,Johnston County,H9
+Oklahoma,Kay County,H9
+Oklahoma,Kingfisher County,H9
+Oklahoma,Kiowa County,H9
+Oklahoma,Latimer County,H9
+Oklahoma,Le Flore County,H9
+Oklahoma,Lincoln County,H9
+Oklahoma,Logan County,H9
+Oklahoma,Love County,H9
+Oklahoma,McClain County,H9
+Oklahoma,McCurtain County,H9
+Oklahoma,McIntosh County,H9
+Oklahoma,Major County,H9
+Oklahoma,Marshall County,H9
+Oklahoma,Mayes County,H9
+Oklahoma,Murray County,H9
+Oklahoma,Muskogee County,H9
+Oklahoma,Noble County,H9
+Oklahoma,Nowata County,H9
+Oklahoma,Okfuskee County,H9
+Oklahoma,Oklahoma County,H9
+Oklahoma,Okmulgee County,H9
+Oklahoma,Osage County,H9
+Oklahoma,Ottawa County,H9
+Oklahoma,Pawnee County,H9
+Oklahoma,Payne County,H9
+Oklahoma,Pittsburg County,H9
+Oklahoma,Pontotoc County,H9
+Oklahoma,Pottawatomie County,H9
+Oklahoma,Pushmataha County,H9
+Oklahoma,Roger Mills County,H9
+Oklahoma,Rogers County,H9
+Oklahoma,Seminole County,H9
+Oklahoma,Sequoyah County,H9
+Oklahoma,Stephens County,H9
+Oklahoma,Texas County,H9
+Oklahoma,Tillman County,H9
+Oklahoma,Tulsa County,H9
+Oklahoma,Wagoner County,H9
+Oklahoma,Washington County,H9
+Oklahoma,Washita County,H9
+Oklahoma,Woods County,H9
+Oklahoma,Woodward County,H9
+Oregon,Baker County,H14
+Oregon,Benton County,C47
+Oregon,Clackamas County,C47
+Oregon,Clatsop County,H14
+Oregon,Columbia County,C47
+Oregon,Coos County,H14
+Oregon,Crook County,H14
+Oregon,Curry County,H14
+Oregon,Deschutes County,H14
+Oregon,Douglas County,H14
+Oregon,Gilliam County,H14
+Oregon,Grant County,H14
+Oregon,Harney County,H14
+Oregon,Hood River County,H14
+Oregon,Jackson County,H14
+Oregon,Jefferson County,H14
+Oregon,Josephine County,H14
+Oregon,Klamath County,H5
+Oregon,Lake County,H14
+Oregon,Lane County,H14
+Oregon,Lincoln County,H14
+Oregon,Linn County,C47
+Oregon,Malheur County,H14
+Oregon,Marion County,C47
+Oregon,Morrow County,H14
+Oregon,Multnomah County,C47
+Oregon,Polk County,C47
+Oregon,Sherman County,H14
+Oregon,Tillamook County,H14
+Oregon,Umatilla County,H14
+Oregon,Union County,H14
+Oregon,Wallowa County,H14
+Oregon,Wasco County,H14
+Oregon,Washington County,C47
+Oregon,Wheeler County,H14
+Oregon,Yamhill County,C47
+Pennsylvania,Adams County,H3
+Pennsylvania,Allegheny County,H7
+Pennsylvania,Armstrong County,H7
+Pennsylvania,Beaver County,H7
+Pennsylvania,Bedford County,H3
+Pennsylvania,Berks County,C08
+Pennsylvania,Blair County,H3
+Pennsylvania,Bradford County,H3
+Pennsylvania,Bucks County,C08
+Pennsylvania,Butler County,H7
+Pennsylvania,Cambria County,H7
+Pennsylvania,Cameron County,H3
+Pennsylvania,Carbon County,C03
+Pennsylvania,Centre County,H3
+Pennsylvania,Chester County,C08
+Pennsylvania,Clarion County,H7
+Pennsylvania,Clearfield County,H3
+Pennsylvania,Clinton County,H3
+Pennsylvania,Columbia County,H3
+Pennsylvania,Crawford County,H7
+Pennsylvania,Cumberland County,H3
+Pennsylvania,Dauphin County,H3
+Pennsylvania,Delaware County,C08
+Pennsylvania,Elk County,H7
+Pennsylvania,Erie County,H2
+Pennsylvania,Fayette County,H7
+Pennsylvania,Forest County,H7
+Pennsylvania,Franklin County,C22
+Pennsylvania,Fulton County,H3
+Pennsylvania,Greene County,H7
+Pennsylvania,Huntingdon County,H3
+Pennsylvania,Indiana County,H7
+Pennsylvania,Jefferson County,H7
+Pennsylvania,Juniata County,H3
+Pennsylvania,Lackawanna County,H3
+Pennsylvania,Lancaster County,H3
+Pennsylvania,Lawrence County,H7
+Pennsylvania,Lebanon County,H3
+Pennsylvania,Lehigh County,C03
+Pennsylvania,Luzerne County,H3
+Pennsylvania,Lycoming County,H3
+Pennsylvania,McKean County,H7
+Pennsylvania,Mercer County,H7
+Pennsylvania,Mifflin County,H3
+Pennsylvania,Monroe County,C03
+Pennsylvania,Montgomery County,C08
+Pennsylvania,Montour County,H3
+Pennsylvania,Northampton County,C03
+Pennsylvania,Northumberland County,H3
+Pennsylvania,Perry County,H3
+Pennsylvania,Philadelphia County,C08
+Pennsylvania,Pike County,C03
+Pennsylvania,Potter County,H3
+Pennsylvania,Schuylkill County,H3
+Pennsylvania,Snyder County,H3
+Pennsylvania,Somerset County,H7
+Pennsylvania,Sullivan County,H3
+Pennsylvania,Susquehanna County,H3
+Pennsylvania,Tioga County,H3
+Pennsylvania,Union County,H3
+Pennsylvania,Venango County,H7
+Pennsylvania,Warren County,H7
+Pennsylvania,Washington County,H7
+Pennsylvania,Wayne County,H3
+Pennsylvania,Westmoreland County,H7
+Pennsylvania,Wyoming County,H3
+Pennsylvania,York County,H3
+Rhode Island,Bristol County,C14
+Rhode Island,Kent County,C14
+Rhode Island,Newport County,C14
+Rhode Island,Providence County,C14
+Rhode Island,Washington County,C14
+South Carolina,Abbeville County,H1
+South Carolina,Aiken County,H1
+South Carolina,Allendale County,H1
+South Carolina,Anderson County,H1
+South Carolina,Bamberg County,H1
+South Carolina,Barnwell County,H1
+South Carolina,Beaufort County,C19
+South Carolina,Berkeley County,C13
+South Carolina,Calhoun County,H1
+South Carolina,Charleston County,C13
+South Carolina,Cherokee County,H1
+South Carolina,Chester County,H1
+South Carolina,Chesterfield County,H1
+South Carolina,Clarendon County,H1
+South Carolina,Colleton County,H1
+South Carolina,Darlington County,H1
+South Carolina,Dillon County,H1
+South Carolina,Dorchester County,C13
+South Carolina,Edgefield County,H1
+South Carolina,Fairfield County,H1
+South Carolina,Florence County,H1
+South Carolina,Georgetown County,C15
+South Carolina,Greenville County,H1
+South Carolina,Greenwood County,H1
+South Carolina,Hampton County,H1
+South Carolina,Horry County,C15
+South Carolina,Jasper County,C19
+South Carolina,Kershaw County,H1
+South Carolina,Lancaster County,H1
+South Carolina,Laurens County,H1
+South Carolina,Lee County,H1
+South Carolina,Lexington County,H1
+South Carolina,McCormick County,H1
+South Carolina,Marion County,H1
+South Carolina,Marlboro County,H1
+South Carolina,Newberry County,H1
+South Carolina,Oconee County,H1
+South Carolina,Orangeburg County,H1
+South Carolina,Pickens County,H1
+South Carolina,Richland County,H1
+South Carolina,Saluda County,H1
+South Carolina,Spartanburg County,H1
+South Carolina,Sumter County,H1
+South Carolina,Union County,H1
+South Carolina,Williamsburg County,H1
+South Carolina,York County,H1
+South Dakota,Aurora County,H10
+South Dakota,Beadle County,H10
+South Dakota,Bennett County,H10
+South Dakota,Bon Homme County,H10
+South Dakota,Brookings County,H10
+South Dakota,Brown County,H10
+South Dakota,Brule County,H10
+South Dakota,Buffalo County,H10
+South Dakota,Butte County,H10
+South Dakota,Campbell County,H10
+South Dakota,Charles Mix County,H10
+South Dakota,Clark County,H10
+South Dakota,Clay County,H10
+South Dakota,Codington County,H10
+South Dakota,Corson County,H10
+South Dakota,Custer County,H10
+South Dakota,Davison County,H10
+South Dakota,Day County,H10
+South Dakota,Deuel County,H11
+South Dakota,Dewey County,H10
+South Dakota,Douglas County,H10
+South Dakota,Edmunds County,H10
+South Dakota,Fall River County,H10
+South Dakota,Faulk County,H10
+South Dakota,Grant County,H11
+South Dakota,Gregory County,H10
+South Dakota,Haakon County,H10
+South Dakota,Hamlin County,H10
+South Dakota,Hand County,H10
+South Dakota,Hanson County,H10
+South Dakota,Harding County,H10
+South Dakota,Hughes County,H10
+South Dakota,Hutchinson County,H10
+South Dakota,Hyde County,H10
+South Dakota,Jackson County,H10
+South Dakota,Jerauld County,H10
+South Dakota,Jones County,H10
+South Dakota,Kingsbury County,H10
+South Dakota,Lake County,H10
+South Dakota,Lawrence County,H10
+South Dakota,Lincoln County,H10
+South Dakota,Lyman County,H10
+South Dakota,McCook County,H10
+South Dakota,McPherson County,H10
+South Dakota,Marshall County,H10
+South Dakota,Meade County,H10
+South Dakota,Mellette County,H10
+South Dakota,Miner County,H10
+South Dakota,Minnehaha County,H10
+South Dakota,Moody County,H10
+South Dakota,Pennington County,H10
+South Dakota,Perkins County,H10
+South Dakota,Potter County,H10
+South Dakota,Roberts County,H11
+South Dakota,Sanborn County,H10
+South Dakota,ShannonCounty,H10
+South Dakota,Oglala Lakota County,H10
+South Dakota,Spink County,H10
+South Dakota,Stanley County,H10
+South Dakota,Sully County,H10
+South Dakota,Todd County,H10
+South Dakota,Tripp County,H10
+South Dakota,Turner County,H10
+South Dakota,Union County,H10
+South Dakota,Walworth County,H10
+South Dakota,Yankton County,H10
+South Dakota,Ziebach County,H10
+Tennessee,Anderson County,H16
+Tennessee,Bedford County,C48
+Tennessee,Benton County,H16
+Tennessee,Bledsoe County,H16
+Tennessee,Blount County,H16
+Tennessee,Bradley County,H16
+Tennessee,Campbell County,H12
+Tennessee,Cannon County,C48
+Tennessee,Carroll County,H6
+Tennessee,Carter County,H16
+Tennessee,Cheatham County,C48
+Tennessee,Chester County,H6
+Tennessee,Claiborne County,H16
+Tennessee,Clay County,H12
+Tennessee,Cocke County,H16
+Tennessee,Coffee County,H16
+Tennessee,Crockett County,H6
+Tennessee,Cumberland County,H16
+Tennessee,Davidson County,C48
+Tennessee,Decatur County,H16
+Tennessee,DeKalb County,H12
+Tennessee,Dickson County,C48
+Tennessee,Dyer County,H6
+Tennessee,Fayette County,H6
+Tennessee,Fentress County,H12
+Tennessee,Franklin County,H16
+Tennessee,Gibson County,H6
+Tennessee,Giles County,H16
+Tennessee,Grainger County,H16
+Tennessee,Greene County,H16
+Tennessee,Grundy County,H12
+Tennessee,Hamblen County,H16
+Tennessee,Hamilton County,H16
+Tennessee,Hancock County,H16
+Tennessee,Hardeman County,H6
+Tennessee,Hardin County,H16
+Tennessee,Hawkins County,H16
+Tennessee,Haywood County,H6
+Tennessee,Henderson County,H16
+Tennessee,Henry County,H16
+Tennessee,Hickman County,C48
+Tennessee,Houston County,H12
+Tennessee,Humphreys County,H16
+Tennessee,Jackson County,H12
+Tennessee,Jefferson County,H16
+Tennessee,Johnson County,H16
+Tennessee,Knox County,H16
+Tennessee,Lake County,H6
+Tennessee,Lauderdale County,H6
+Tennessee,Lawrence County,C48
+Tennessee,Lewis County,H16
+Tennessee,Lincoln County,H16
+Tennessee,Loudon County,H16
+Tennessee,McMinn County,H16
+Tennessee,McNairy County,H6
+Tennessee,Macon County,C48
+Tennessee,Madison County,H6
+Tennessee,Marion County,H16
+Tennessee,Marshall County,C48
+Tennessee,Maury County,C48
+Tennessee,Meigs County,H16
+Tennessee,Monroe County,H16
+Tennessee,Montgomery County,H12
+Tennessee,Moore County,H16
+Tennessee,Morgan County,H16
+Tennessee,Obion County,H6
+Tennessee,Overton County,H12
+Tennessee,Perry County,H16
+Tennessee,Pickett County,H12
+Tennessee,Polk County,H16
+Tennessee,Putnam County,H12
+Tennessee,Rhea County,H16
+Tennessee,Roane County,H16
+Tennessee,Robertson County,C48
+Tennessee,Rutherford County,C48
+Tennessee,Scott County,H12
+Tennessee,Sequatchie County,H16
+Tennessee,Sevier County,H16
+Tennessee,Shelby County,H6
+Tennessee,Smith County,C48
+Tennessee,Stewart County,H12
+Tennessee,Sullivan County,H16
+Tennessee,Sumner County,C48
+Tennessee,Tipton County,H6
+Tennessee,Trousdale County,C48
+Tennessee,Unicoi County,H16
+Tennessee,Union County,H16
+Tennessee,Van Buren County,H12
+Tennessee,Warren County,H12
+Tennessee,Washington County,H16
+Tennessee,Wayne County,H16
+Tennessee,Weakley County,H6
+Tennessee,White County,H12
+Tennessee,Williamson County,C48
+Tennessee,Wilson County,C48
+Texas,Anderson County,H13
+Texas,Andrews County,H13
+Texas,Angelina County,H13
+Texas,Aransas County,C24
+Texas,Archer County,H9
+Texas,Armstrong County,H9
+Texas,Atascosa County,C45
+Texas,Austin County,C02
+Texas,Bailey County,H13
+Texas,Bandera County,C45
+Texas,Bastrop County,C44
+Texas,Baylor County,H9
+Texas,Bee County,H13
+Texas,Bell County,H13
+Texas,Bexar County,C45
+Texas,Blanco County,H13
+Texas,Borden County,H13
+Texas,Bosque County,H13
+Texas,Bowie County,H9
+Texas,Brazoria County,C02
+Texas,Brazos County,H13
+Texas,Brewster County,H8
+Texas,Briscoe County,H9
+Texas,Brooks County,H13
+Texas,Brown County,H13
+Texas,Burleson County,H13
+Texas,Burnet County,H13
+Texas,Caldwell County,C44
+Texas,Calhoun County,H13
+Texas,Callahan County,H13
+Texas,Cameron County,C41
+Texas,Camp County,H9
+Texas,Carson County,H9
+Texas,Cass County,H9
+Texas,Castro County,H13
+Texas,Chambers County,C02
+Texas,Cherokee County,H13
+Texas,Childress County,H9
+Texas,Clay County,H9
+Texas,Cochran County,H13
+Texas,Coke County,H13
+Texas,Coleman County,H13
+Texas,Collin County,C36
+Texas,Collingsworth County,H9
+Texas,Colorado County,H13
+Texas,Comal County,C45
+Texas,Comanche County,H13
+Texas,Concho County,H13
+Texas,Cooke County,C36
+Texas,Coryell County,H13
+Texas,Cottle County,H9
+Texas,Crane County,H8
+Texas,Crockett County,H8
+Texas,Crosby County,H13
+Texas,Culberson County,H8
+Texas,Dallam County,H9
+Texas,Dallas County,C36
+Texas,Dawson County,H13
+Texas,Deaf Smith County,H9
+Texas,Delta County,H9
+Texas,Denton County,C36
+Texas,DeWitt County,H13
+Texas,Dickens County,H13
+Texas,Dimmit County,H13
+Texas,Donley County,H9
+Texas,Duval County,H13
+Texas,Eastland County,H13
+Texas,Ector County,H13
+Texas,Edwards County,H13
+Texas,Ellis County,C36
+Texas,El Paso County,H8
+Texas,Erath County,H13
+Texas,Falls County,H13
+Texas,Fannin County,C36
+Texas,Fayette County,H13
+Texas,Fisher County,H13
+Texas,Floyd County,H9
+Texas,Foard County,H9
+Texas,Fort Bend County,C02
+Texas,Franklin County,H9
+Texas,Freestone County,H13
+Texas,Frio County,H13
+Texas,Gaines County,H13
+Texas,Galveston County,C02
+Texas,Garza County,H13
+Texas,Gillespie County,H13
+Texas,Glasscock County,H13
+Texas,Goliad County,H13
+Texas,Gonzales County,H13
+Texas,Gray County,H9
+Texas,Grayson County,C36
+Texas,Gregg County,H13
+Texas,Grimes County,H13
+Texas,Guadalupe County,C45
+Texas,Hale County,H13
+Texas,Hall County,H9
+Texas,Hamilton County,H13
+Texas,Hansford County,H9
+Texas,Hardeman County,H9
+Texas,Hardin County,C25
+Texas,Harris County,C02
+Texas,Harrison County,H9
+Texas,Hartley County,H9
+Texas,Haskell County,H13
+Texas,Hays County,C44
+Texas,Hemphill County,H9
+Texas,Henderson County,C36
+Texas,Hidalgo County,H13
+Texas,Hill County,H13
+Texas,Hockley County,H13
+Texas,Hood County,C36
+Texas,Hopkins County,C36
+Texas,Houston County,H13
+Texas,Howard County,H13
+Texas,Hudspeth County,H8
+Texas,Hunt County,C36
+Texas,Hutchinson County,H9
+Texas,Irion County,H13
+Texas,Jack County,H13
+Texas,Jackson County,H13
+Texas,Jasper County,H13
+Texas,Jeff Davis County,H8
+Texas,Jefferson County,C25
+Texas,Jim Hogg County,H13
+Texas,Jim Wells County,C24
+Texas,Johnson County,C36
+Texas,Jones County,H13
+Texas,Karnes County,H13
+Texas,Kaufman County,C36
+Texas,Kendall County,C45
+Texas,Kenedy County,C24
+Texas,Kent County,H13
+Texas,Kerr County,H13
+Texas,Kimble County,H13
+Texas,King County,H9
+Texas,Kinney County,H8
+Texas,Kleberg County,C24
+Texas,Knox County,H13
+Texas,Lamar County,H9
+Texas,Lamb County,H13
+Texas,Lampasas County,H13
+Texas,La Salle County,H13
+Texas,Lavaca County,H13
+Texas,Lee County,H13
+Texas,Leon County,H13
+Texas,Liberty County,C02
+Texas,Limestone County,H13
+Texas,Lipscomb County,H9
+Texas,Live Oak County,H13
+Texas,Llano County,H13
+Texas,Loving County,H8
+Texas,Lubbock County,H13
+Texas,Lynn County,H13
+Texas,McCulloch County,H13
+Texas,McLennan County,H13
+Texas,McMullen County,H13
+Texas,Madison County,H13
+Texas,Marion County,H9
+Texas,Martin County,H13
+Texas,Mason County,H13
+Texas,Matagorda County,C02
+Texas,Maverick County,H8
+Texas,Medina County,C45
+Texas,Menard County,H13
+Texas,Midland County,H13
+Texas,Milam County,H13
+Texas,Mills County,H13
+Texas,Mitchell County,H13
+Texas,Montague County,H9
+Texas,Montgomery County,C02
+Texas,Moore County,H9
+Texas,Morris County,H9
+Texas,Motley County,H9
+Texas,Nacogdoches County,H13
+Texas,Navarro County,C36
+Texas,Newton County,C25
+Texas,Nolan County,H13
+Texas,Nueces County,C24
+Texas,Ochiltree County,H9
+Texas,Oldham County,H9
+Texas,Orange County,C25
+Texas,Palo Pinto County,C36
+Texas,Panola County,H13
+Texas,Parker County,C36
+Texas,Parmer County,H13
+Texas,Pecos County,H8
+Texas,Polk County,H13
+Texas,Potter County,H9
+Texas,Presidio County,H8
+Texas,Rains County,H13
+Texas,Randall County,H9
+Texas,Reagan County,H13
+Texas,Real County,H13
+Texas,Red River County,H9
+Texas,Reeves County,H8
+Texas,Refugio County,H13
+Texas,Roberts County,H9
+Texas,Robertson County,H13
+Texas,Rockwall County,C36
+Texas,Runnels County,H13
+Texas,Rusk County,H13
+Texas,Sabine County,H13
+Texas,San Augustine County,H13
+Texas,San Jacinto County,H13
+Texas,San Patricio County,C24
+Texas,San Saba County,H13
+Texas,Schleicher County,H13
+Texas,Scurry County,H13
+Texas,Shackelford County,H13
+Texas,Shelby County,H13
+Texas,Sherman County,H9
+Texas,Smith County,H13
+Texas,Somervell County,C36
+Texas,Starr County,H8
+Texas,Stephens County,H13
+Texas,Sterling County,H13
+Texas,Stonewall County,H13
+Texas,Sutton County,H8
+Texas,Swisher County,H9
+Texas,Tarrant County,C36
+Texas,Taylor County,H13
+Texas,Terrell County,H8
+Texas,Terry County,H13
+Texas,Throckmorton County,H13
+Texas,Titus County,H9
+Texas,Tom Green County,H13
+Texas,Travis County,C44
+Texas,Trinity County,C02
+Texas,Tyler County,H13
+Texas,Upshur County,H9
+Texas,Upton County,H8
+Texas,Uvalde County,H13
+Texas,Val Verde County,H8
+Texas,Van Zandt County,H13
+Texas,Victoria County,H13
+Texas,Walker County,C02
+Texas,Waller County,C02
+Texas,Ward County,H8
+Texas,Washington County,C02
+Texas,Webb County,H13
+Texas,Wharton County,C02
+Texas,Wheeler County,H9
+Texas,Wichita County,H9
+Texas,Wilbarger County,H9
+Texas,Willacy County,C41
+Texas,Williamson County,C44
+Texas,Wilson County,C45
+Texas,Winkler County,H8
+Texas,Wise County,C36
+Texas,Wood County,H13
+Texas,Yoakum County,H13
+Texas,Young County,H13
+Texas,Zapata County,H8
+Texas,Zavala County,H13
+Utah,Beaver County,H8
+Utah,Box Elder County,H8
+Utah,Cache County,H8
+Utah,Carbon County,H8
+Utah,Daggett County,H8
+Utah,Davis County,H8
+Utah,Duchesne County,H8
+Utah,Emery County,H8
+Utah,Garfield County,H8
+Utah,Grand County,H8
+Utah,Iron County,H8
+Utah,Juab County,H8
+Utah,Kane County,H8
+Utah,Millard County,H8
+Utah,Morgan County,H8
+Utah,Piute County,H8
+Utah,Rich County,H8
+Utah,Salt Lake County,H8
+Utah,San Juan County,H8
+Utah,Sanpete County,H8
+Utah,Sevier County,H8
+Utah,Summit County,H8
+Utah,Tooele County,H8
+Utah,Uintah County,H8
+Utah,Utah County,H8
+Utah,Wasatch County,H8
+Utah,Washington County,H8
+Utah,Wayne County,H8
+Utah,Weber County,H8
+Vermont,Addison County,H2
+Vermont,Bennington County,H3
+Vermont,Caledonia County,H15
+Vermont,Chittenden County,H2
+Vermont,Essex County,H15
+Vermont,Franklin County,H2
+Vermont,Grand Isle County,H2
+Vermont,Lamoille County,H2
+Vermont,Orange County,H15
+Vermont,Orleans County,H2
+Vermont,Rutland County,H2
+Vermont,Washington County,H2
+Vermont,Windham County,H15
+Vermont,Windsor County,H15
+Virginia,Accomack County,H3
+Virginia,Albemarle County,H3
+Virginia,Alleghany County,H3
+Virginia,Amelia County,H3
+Virginia,Amherst County,H3
+Virginia,Appomattox County,H3
+Virginia,Arlington County,C22
+Virginia,Augusta County,H3
+Virginia,Bath County,H3
+Virginia,Bedford County,H1
+Virginia,Bland County,H7
+Virginia,Botetourt County,H3
+Virginia,Brunswick County,H1
+Virginia,Buchanan County,H7
+Virginia,Buckingham County,H3
+Virginia,Campbell County,H1
+Virginia,Caroline County,H3
+Virginia,Carroll County,H7
+Virginia,Charles City County,H3
+Virginia,Charlotte County,H1
+Virginia,Chesterfield County,H3
+Virginia,Clarke County,C22
+Virginia,Craig County,H3
+Virginia,Culpeper County,C22
+Virginia,Cumberland County,H3
+Virginia,Dickenson County,H7
+Virginia,Dinwiddie County,H1
+Virginia,Essex County,H3
+Virginia,Fairfax County,C22
+Virginia,Fauquier County,C22
+Virginia,Floyd County,H7
+Virginia,Fluvanna County,H3
+Virginia,Franklin County,H1
+Virginia,Frederick County,C22
+Virginia,Giles County,H7
+Virginia,Gloucester County,C09
+Virginia,Goochland County,H3
+Virginia,Grayson County,H7
+Virginia,Greene County,H3
+Virginia,Greensville County,H1
+Virginia,Halifax County,H1
+Virginia,Hanover County,H3
+Virginia,Henrico County,H3
+Virginia,Henry County,H1
+Virginia,Highland County,H3
+Virginia,Isle of Wight County,C09
+Virginia,James City County,C09
+Virginia,King and Queen County,H3
+Virginia,King George County,H3
+Virginia,King William County,H3
+Virginia,Lancaster County,H3
+Virginia,Lee County,H16
+Virginia,Loudoun County,C22
+Virginia,Louisa County,H3
+Virginia,Lunenburg County,H1
+Virginia,Madison County,H3
+Virginia,Mathews County,C09
+Virginia,Mecklenburg County,H1
+Virginia,Middlesex County,H3
+Virginia,Montgomery County,H1
+Virginia,Nelson County,H3
+Virginia,New Kent County,H3
+Virginia,Northampton County,H3
+Virginia,Northumberland County,H3
+Virginia,Nottoway County,H3
+Virginia,Orange County,H3
+Virginia,Page County,H3
+Virginia,Patrick County,H1
+Virginia,Pittsylvania County,H1
+Virginia,Powhatan County,H3
+Virginia,Prince Edward County,H3
+Virginia,Prince George County,H1
+Virginia,Prince William County,C22
+Virginia,Pulaski County,H7
+Virginia,Rappahannock County,C22
+Virginia,Richmond County,H3
+Virginia,Roanoke County,H1
+Virginia,Rockbridge County,H3
+Virginia,Rockingham County,H3
+Virginia,Russell County,H16
+Virginia,Scott County,H16
+Virginia,Shenandoah County,H3
+Virginia,Smyth County,H16
+Virginia,Southampton County,H1
+Virginia,Spotsylvania County,C22
+Virginia,Stafford County,C22
+Virginia,Surry County,H1
+Virginia,Sussex County,H1
+Virginia,Tazewell County,H16
+Virginia,Warren County,C22
+Virginia,Washington County,H16
+Virginia,Westmoreland County,H3
+Virginia,Wise County,H16
+Virginia,Wythe County,H7
+Virginia,York County,C09
+Virginia,Alexandria city,C22
+Virginia,Bedford city,H1
+Virginia,Bristol city,H16
+Virginia,Buena Vista city,H3
+Virginia,Charlottesville city,H3
+Virginia,Chesapeake city,C09
+Virginia,Colonial Heights city,H3
+Virginia,Covington city,H3
+Virginia,Danville city,H1
+Virginia,Emporia city,H1
+Virginia,Fairfax city,C22
+Virginia,Falls Church city,C22
+Virginia,Franklin city,H1
+Virginia,Fredericksburg city,C22
+Virginia,Galax city,H7
+Virginia,Hampton city,C09
+Virginia,Harrisonburg city,H3
+Virginia,Hopewell city,H3
+Virginia,Lexington city,H3
+Virginia,Lynchburg city,H3
+Virginia,Manassas city,C22
+Virginia,Manassas Park city,C22
+Virginia,Martinsville city,H1
+Virginia,Newport News city,C09
+Virginia,Norfolk city,C09
+Virginia,Norton city,H16
+Virginia,Petersburg city,H3
+Virginia,Poquoson city,C09
+Virginia,Portsmouth city,C09
+Virginia,Radford city,H7
+Virginia,Richmond city,H3
+Virginia,Roanoke city,H1
+Virginia,Salem city,H1
+Virginia,Staunton city,H3
+Virginia,Suffolk city,C09
+Virginia,Virginia Beach city,C09
+Virginia,Waynesboro city,H3
+Virginia,Williamsburg city,C09
+Virginia,Winchester city,C22
+Washington,Adams County,H14
+Washington,Asotin County,H14
+Washington,Benton County,H14
+Washington,Chelan County,H14
+Washington,Clallam County,H14
+Washington,Clark County,C47
+Washington,Columbia County,H14
+Washington,Cowlitz County,C47
+Washington,Douglas County,H14
+Washington,Ferry County,H14
+Washington,Franklin County,H14
+Washington,Garfield County,H14
+Washington,Grant County,H14
+Washington,Grays Harbor County,H14
+Washington,Island County,C37
+Washington,Jefferson County,H14
+Washington,King County,C37
+Washington,Kitsap County,C37
+Washington,Kittitas County,H14
+Washington,Klickitat County,H14
+Washington,Lewis County,C37
+Washington,Lincoln County,H14
+Washington,Mason County,C37
+Washington,Okanogan County,H14
+Washington,Pacific County,H14
+Washington,Pend Oreille County,H14
+Washington,Pierce County,C37
+Washington,San Juan County,H14
+Washington,Skagit County,C37
+Washington,Skamania County,C47
+Washington,Snohomish County,C37
+Washington,Spokane County,H14
+Washington,Stevens County,H14
+Washington,Thurston County,C37
+Washington,Wahkiakum County,H14
+Washington,Walla Walla County,H14
+Washington,Whatcom County,H14
+Washington,Whitman County,H14
+Washington,Yakima County,H14
+West Virginia,Barbour County,H7
+West Virginia,Berkeley County,C22
+West Virginia,Boone County,H7
+West Virginia,Braxton County,H7
+West Virginia,Brooke County,H7
+West Virginia,Cabell County,H7
+West Virginia,Calhoun County,H7
+West Virginia,Clay County,H7
+West Virginia,Doddridge County,H7
+West Virginia,Fayette County,H7
+West Virginia,Gilmer County,H7
+West Virginia,Grant County,H3
+West Virginia,Greenbrier County,H7
+West Virginia,Hampshire County,C22
+West Virginia,Hancock County,H7
+West Virginia,Hardy County,H3
+West Virginia,Harrison County,H7
+West Virginia,Jackson County,H7
+West Virginia,Jefferson County,C22
+West Virginia,Kanawha County,H7
+West Virginia,Lewis County,H7
+West Virginia,Lincoln County,H7
+West Virginia,Logan County,H7
+West Virginia,McDowell County,H7
+West Virginia,Marion County,H7
+West Virginia,Marshall County,H7
+West Virginia,Mason County,H7
+West Virginia,Mercer County,H7
+West Virginia,Mineral County,H3
+West Virginia,Mingo County,H7
+West Virginia,Monongalia County,H7
+West Virginia,Monroe County,H7
+West Virginia,Morgan County,H3
+West Virginia,Nicholas County,H7
+West Virginia,Ohio County,H7
+West Virginia,Pendleton County,H3
+West Virginia,Pleasants County,H7
+West Virginia,Pocahontas County,H7
+West Virginia,Preston County,H7
+West Virginia,Putnam County,H7
+West Virginia,Raleigh County,H7
+West Virginia,Randolph County,H7
+West Virginia,Ritchie County,H7
+West Virginia,Roane County,H7
+West Virginia,Summers County,H7
+West Virginia,Taylor County,H7
+West Virginia,Tucker County,H7
+West Virginia,Tyler County,H7
+West Virginia,Upshur County,H7
+West Virginia,Wayne County,H7
+West Virginia,Webster County,H7
+West Virginia,Wetzel County,H7
+West Virginia,Wirt County,H7
+West Virginia,Wood County,H7
+West Virginia,Wyoming County,H7
+Wisconsin,Adams County,H11
+Wisconsin,Ashland County,H2
+Wisconsin,Barron County,H11
+Wisconsin,Bayfield County,H2
+Wisconsin,Brown County,H2
+Wisconsin,Buffalo County,H11
+Wisconsin,Burnett County,H11
+Wisconsin,Calumet County,H2
+Wisconsin,Chippewa County,H11
+Wisconsin,Clark County,H11
+Wisconsin,Columbia County,H11
+Wisconsin,Crawford County,H11
+Wisconsin,Dane County,H11
+Wisconsin,Dodge County,H11
+Wisconsin,Door County,H2
+Wisconsin,Douglas County,H2
+Wisconsin,Dunn County,H11
+Wisconsin,Eau Claire County,H11
+Wisconsin,Florence County,H2
+Wisconsin,Fond du Lac County,H2
+Wisconsin,Forest County,H2
+Wisconsin,Grant County,H11
+Wisconsin,Green County,H11
+Wisconsin,Green Lake County,H2
+Wisconsin,Iowa County,H11
+Wisconsin,Iron County,H2
+Wisconsin,Jackson County,H11
+Wisconsin,Jefferson County,H11
+Wisconsin,Juneau County,H11
+Wisconsin,Kenosha County,C34
+Wisconsin,Kewaunee County,H2
+Wisconsin,La Crosse County,H11
+Wisconsin,Lafayette County,H11
+Wisconsin,Langlade County,H2
+Wisconsin,Lincoln County,H11
+Wisconsin,Manitowoc County,H2
+Wisconsin,Marathon County,H11
+Wisconsin,Marinette County,H2
+Wisconsin,Marquette County,H2
+Wisconsin,Menominee County,H2
+Wisconsin,Milwaukee County,H2
+Wisconsin,Monroe County,H11
+Wisconsin,Oconto County,H2
+Wisconsin,Oneida County,H11
+Wisconsin,Outagamie County,H2
+Wisconsin,Ozaukee County,H2
+Wisconsin,Pepin County,H11
+Wisconsin,Pierce County,H11
+Wisconsin,Polk County,H11
+Wisconsin,Portage County,H11
+Wisconsin,Price County,H11
+Wisconsin,Racine County,H2
+Wisconsin,Richland County,H11
+Wisconsin,Rock County,H11
+Wisconsin,Rusk County,H11
+Wisconsin,St. Croix County,H11
+Wisconsin,Sauk County,H11
+Wisconsin,Sawyer County,H11
+Wisconsin,Shawano County,H2
+Wisconsin,Sheboygan County,H2
+Wisconsin,Taylor County,H11
+Wisconsin,Trempealeau County,H11
+Wisconsin,Vernon County,H11
+Wisconsin,Vilas County,H11
+Wisconsin,Walworth County,H11
+Wisconsin,Washburn County,H11
+Wisconsin,Washington County,H2
+Wisconsin,Waukesha County,H11
+Wisconsin,Waupaca County,H2
+Wisconsin,Waushara County,H2
+Wisconsin,Winnebago County,H2
+Wisconsin,Wood County,H11
+Wyoming,Albany County,H10
+Wyoming,Big Horn County,H10
+Wyoming,Campbell County,H10
+Wyoming,Carbon County,H10
+Wyoming,Converse County,H10
+Wyoming,Crook County,H10
+Wyoming,Fremont County,H10
+Wyoming,Goshen County,H10
+Wyoming,Hot Springs County,H10
+Wyoming,Johnson County,H10
+Wyoming,Laramie County,H10
+Wyoming,Lincoln County,H8
+Wyoming,Natrona County,H10
+Wyoming,Niobrara County,H10
+Wyoming,Park County,H10
+Wyoming,Platte County,H10
+Wyoming,Sheridan County,H10
+Wyoming,Sublette County,H8
+Wyoming,Sweetwater County,H8
+Wyoming,Teton County,H14
+Wyoming,Uinta County,H8
+Wyoming,Washakie County,H10
+Wyoming,Weston County,H10
+American Samoa,Eastern District,H18
+American Samoa,Manu'a District,H18
+American Samoa,Rose Island,H18
+American Samoa,Swains Island,H18
+American Samoa,Western District,H18
+Guam,Guam,H18
+Northern Mariana Islands,Northern Islands Municipality,H18
+Northern Mariana Islands,Rota Municipality,H18
+Northern Mariana Islands,Saipan Municipality,H18
+Northern Mariana Islands,Tinian Municipality,H18
+Puerto Rico,Adjuntas Municipio,H17
+Puerto Rico,Aguada Municipio,H17
+Puerto Rico,Aguadilla Municipio,H17
+Puerto Rico,Aguas Buenas Municipio,H17
+Puerto Rico,Aibonito Municipio,H17
+Puerto Rico,Anasco Municipio,H17
+Puerto Rico,Arecibo Municipio,H17
+Puerto Rico,Arroyo Municipio,H17
+Puerto Rico,Barceloneta Municipio,H17
+Puerto Rico,Barranquitas Municipio,H17
+Puerto Rico,Bayamon Municipio,H17
+Puerto Rico,Cabo Rojo Municipio,H17
+Puerto Rico,Caguas Municipio,H17
+Puerto Rico,Camuy Municipio,H17
+Puerto Rico,Canovanas Municipio,H17
+Puerto Rico,Carolina Municipio,H17
+Puerto Rico,Catano Municipio,H17
+Puerto Rico,Cayey Municipio,H17
+Puerto Rico,Ceiba Municipio,H17
+Puerto Rico,Ciales Municipio,H17
+Puerto Rico,Cidra Municipio,H17
+Puerto Rico,Coamo Municipio,H17
+Puerto Rico,Comerio Municipio,H17
+Puerto Rico,Corozal Municipio,H17
+Puerto Rico,Culebra Municipio,H17
+Puerto Rico,Dorado Municipio,H17
+Puerto Rico,Fajardo Municipio,H17
+Puerto Rico,Florida Municipio,H17
+Puerto Rico,Guanica Municipio,H17
+Puerto Rico,Guayama Municipio,H17
+Puerto Rico,Guayanilla Municipio,H17
+Puerto Rico,Guaynabo Municipio,H17
+Puerto Rico,Gurabo Municipio,H17
+Puerto Rico,Hatillo Municipio,H17
+Puerto Rico,Hormigueros Municipio,H17
+Puerto Rico,Humacao Municipio,H17
+Puerto Rico,Isabela Municipio,H17
+Puerto Rico,Jayuya Municipio,H17
+Puerto Rico,Juana Diaz Municipio,H17
+Puerto Rico,Juncos Municipio,H17
+Puerto Rico,Lajas Municipio,H17
+Puerto Rico,Lares Municipio,H17
+Puerto Rico,Las Marias Municipio,H17
+Puerto Rico,Las Piedras Municipio,H17
+Puerto Rico,Loiza Municipio,H17
+Puerto Rico,Luquillo Municipio,H17
+Puerto Rico,Manati Municipio,H17
+Puerto Rico,Maricao Municipio,H17
+Puerto Rico,Maunabo Municipio,H17
+Puerto Rico,Mayaguez Municipio,H17
+Puerto Rico,Moca Municipio,H17
+Puerto Rico,Morovis Municipio,H17
+Puerto Rico,Naguabo Municipio,H17
+Puerto Rico,Naranjito Municipio,H17
+Puerto Rico,Orocovis Municipio,H17
+Puerto Rico,Patillas Municipio,H17
+Puerto Rico,Penuelas Municipio,H17
+Puerto Rico,Ponce Municipio,H17
+Puerto Rico,Quebradillas Municipio,H17
+Puerto Rico,Rincon Municipio,H17
+Puerto Rico,Rio Grande Municipio,H17
+Puerto Rico,Sabana Grande Municipio,H17
+Puerto Rico,Salinas Municipio,H17
+Puerto Rico,San German Municipio,H17
+Puerto Rico,San Juan Municipio,H17
+Puerto Rico,San Lorenzo Municipio,H17
+Puerto Rico,San Sebastian Municipio,H17
+Puerto Rico,Santa Isabel Municipio,H17
+Puerto Rico,Toa Alta Municipio,H17
+Puerto Rico,Toa Baja Municipio,H17
+Puerto Rico,Trujillo Alto Municipio,H17
+Puerto Rico,Utuado Municipio,H17
+Puerto Rico,Vega Alta Municipio,H17
+Puerto Rico,Vega Baja Municipio,H17
+Puerto Rico,Vieques Municipio,H17
+Puerto Rico,Villalba Municipio,H17
+Puerto Rico,Yabucoa Municipio,H17
+Puerto Rico,Yauco Municipio,H17
+U.S. Minor Outlying Islands,Midway Islands,H18
+U.S. Virgin Islands,St. Croix Island,H17
+U.S. Virgin Islands,St. John Island,H17
+U.S. Virgin Islands,St. Thomas Island,H17

@@ -1,0 +1,7 @@
+Foundation Type,"All Perils, Excluding Coastal Erosion"
+Basement,1.3
+Crawlspace,1.2
+"Elevated with Enclosure, Not Post, Pile, or Pier",1.25
+"Elevated with Enclosure, Post, Pile, or Pier",1.0
+"Elevated without Enclosure, Post, Pile, or Pier",1.0
+Slab,1.0

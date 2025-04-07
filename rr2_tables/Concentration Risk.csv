@@ -1,0 +1,74 @@
+Concentration Risk Code,Concentration Risk Territory Description (Note 1),Inland Flood,Storm Surge
+C01,"Miami-Fort Lauderdale-Port St. Lucie, FL (Combined Statistical Area)",1.064,1.012
+C02,"Houston-The Woodlands, TX (Combined Statistical Area)",1.052,0.992
+C03,"New York-Newark, NY-NJ-CT-PA (Combined Statistical Area)",0.998,0.939
+C04,"New Orleans-Metairie-Hammond, LA-MS (Combined Statistical Area)",1.092,1.0
+C05,"Cape Coral-Fort Myers-Naples, FL (Combined Statistical Area)",1.049,1.053
+C06,"Tampa-St. Petersburg-Clearwater, FL (Metropolitan Statistical Area)",1.031,1.056
+C07,"North Port-Sarasota, FL (Combined Statistical Area)",1.039,1.05
+C08,"Philadelphia-Reading-Camden, PA-NJ-DE-MD (Combined Statistical Area)",1.002,0.949
+C09,"Virginia Beach-Norfolk, VA-NC (Combined Statistical Area)",0.958,0.929
+C10,"Orlando-Deltona-Daytona Beach, FL (Combined Statistical Area)",1.011,0.971
+C11,"Jacksonville-St. Marys-Palatka, FL-GA (Combined Statistical Area)",0.982,0.962
+C12,"Baton Rouge, LA (Metropolitan Statistical Area)",1.006,0.998
+C13,"Charleston-North Charleston, SC (Metropolitan Statistical Area)",0.964,0.949
+C14,"Boston-Worcester-Providence, MA-RI-NH-CT (Combined Statistical Area)",0.972,0.909
+C15,"Myrtle Beach-Conway, SC-NC (Combined Statistical Area)",0.963,0.923
+C16,"Sacramento-Roseville, CA (Combined Statistical Area)",1.018,1.0
+C17,"San Jose-San Francisco-Oakland, CA (Combined Statistical Area)",0.989,1.0
+C18,"Salisbury, MD-DE (Metropolitan Statistical Area)",0.969,0.941
+C19,"Hilton Head Island-Bluffton-Beaufort, SC (Metropolitan Statistical Area)",0.962,0.952
+C20,"Los Angeles-Long Beach, CA (Combined Statistical Area)",0.965,1.0
+C21,"Palm Bay-Melbourne-Titusville, FL (Metropolitan Statistical Area)",1.008,0.988
+C22,"Washington-Baltimore-Arlington, DC-MD-VA-WV-PA (Combined Statistical Area)",0.971,0.922
+C23,"Lafayette-Opelousas-Morgan City, LA (Combined Statistical Area)",0.982,0.906
+C24,"Corpus Christi-Kingsville-Alice, TX (Combined Statistical Area)",0.957,0.888
+C25,"Beaumont-Port Arthur, TX (Metropolitan Statistical Area)",0.992,0.998
+C26,"Gulfport-Biloxi-Pascagoula, MS (Metropolitan Statistical Area)",0.968,0.943
+C27,"Crestview-Fort Walton Beach-Destin, FL (Metropolitan Statistical Area)",0.957,0.917
+C28,"Savannah-Hinesville-Statesboro, GA (Combined Statistical Area)",0.966,0.966
+C29,"Urban Honolulu, HI (Metropolitan Statistical Area)",1.0,1.0
+C30,"Pensacola-Ferry Pass, FL-AL (Combined Statistical Area)",0.961,0.909
+C31,"Mobile-Daphne-Fairhope, AL (Combined Statistical Area)",0.959,0.905
+C32,"Panama City, FL (Metropolitan Statistical Area)",0.961,0.913
+C33,"Key West, FL (Micropolitan Statistical Area)",1.004,0.971
+C34,"Chicago-Naperville, IL-IN-WI (Combined Statistical Area)",0.954,1.0
+C35,"Houma-Thibodaux, LA (Metropolitan Statistical Area)",1.02,0.954
+C36,"Dallas-Fort Worth, TX-OK (Combined Statistical Area)",0.956,1.0
+C37,"Seattle-Tacoma, WA (Combined Statistical Area)",0.955,1.0
+C38,"New Bern-Morehead City, NC (Combined Statistical Area)",0.959,0.915
+C39,"Phoenix-Mesa-Scottsdale, AZ (Metropolitan Statistical Area)",0.954,1.0
+C40,"Lake Charles-Jennings, LA (Combined Statistical Area)",0.975,0.929
+C41,"Brownsville-Harlingen-Raymondville, TX (Combined Statistical Area)",0.955,0.889
+C42,"Wilmington, NC (Metropolitan Statistical Area)",0.959,0.913
+C43,"Atlanta--Athens-Clarke County--Sandy Springs, GA (Combined Statistical Area)",0.957,1.0
+C44,"Austin-Round Rock, TX (Metropolitan Statistical Area)",0.961,1.0
+C45,"San Antonio-New Braunfels, TX (Metropolitan Statistical Area)",0.958,1.0
+C46,"Brunswick, GA (Metropolitan Statistical Area)",0.973,0.951
+C47,"Portland-Vancouver-Salem, OR-WA (Combined Statistical Area)",0.958,1.0
+C48,"Nashville-Davidson--Murfreesboro, TN (Combined Statistical Area)",0.956,1.0
+C49,"Kahului-Wailuku-Lahaina, HI (Metropolitan Statistical Area)",1.0,1.0
+C50,"Denver-Aurora, CO (Combined Statistical Area)",0.952,1.0
+H1,HUC South Atlantic,0.962,0.923
+H2,HUC Lakes,0.959,1.0
+H3,HUC Mid Atlantic,0.974,0.943
+H4,HUC Gulf,0.967,0.958
+H5,HUC CA,0.968,1.0
+H6,HUC Lower MS,0.961,0.936
+H7,HUC OH East,0.959,1.0
+H8,HUC Rio-CO-Great Basin,0.954,1.0
+H9,HUC AR,0.955,1.0
+H10,HUC MO,0.952,1.0
+H11,HUC Upper MS,0.953,1.0
+H12,HUC OH West,0.955,1.0
+H13,HUC TX Gulf,0.959,0.887
+H14,HUC Pacific Northwest,0.956,1.0
+H15,HUC New England,0.971,0.909
+H16,HUC KY,0.957,1.0
+H17,HUC PR-VI,1.0,1.0
+H18,HUC HI-Pacific Territories,1.0,1.0
+H19,HUC AK,0.952,0.878
+,,,
+,,,
+,,,
+Concentration risk territories which start with an 'H' are approximate HUC regions. Refer to mapping details for further description.,,,

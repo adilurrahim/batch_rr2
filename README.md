@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Step 1: Input Directory Structure
 ```
@@ -65,11 +65,11 @@ python scripts/main.py \
     --output_dir output/
 ```
 
-> 💡 You can control which buildings to calculate insurance premiums for using the `--insurance` flag. If set, premiums will be calculated only for rows with has_insurance = `Yes` or `1` or `True`.
+> You can control which buildings to calculate insurance premiums for using the `--insurance` flag. If set, premiums will be calculated only for rows with has_insurance = `Yes` or `1` or `True`.
 
 ---
 
-## 🛠 Customization via CLI
+## Customization via CLI
 
 | Flag | Description |
 |------|-------------|
@@ -86,7 +86,7 @@ python scripts/main.py \
 
 ---
 
-## 📤 Output Columns
+## Output Columns
 
 ### Column Setup: `premium`
 - structure_id
@@ -132,7 +132,7 @@ In addition to the above:
 
 ---
 
-## 🐍 Python Requirements
+## Python Requirements
 ```
 Python 3.10+
 

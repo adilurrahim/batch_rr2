@@ -66,9 +66,9 @@ python scripts/main.py \
 
 | Flag | Description |
 |------|-------------|
-| `--years` | List of years (e.g., `2 22 32`) |
-| `--plans` | Scenario plans (e.g., `FWOA FWMP`) |
-| `--scenarios` | Scenarios (e.g., `Higher Lower`) |
+| `--years` | List of years (`2 12 22 32 42 52`) |
+| `--plans` | Scenario plans ( `FWOA FWMP`) |
+| `--scenarios` | Scenarios (`Higher Lower`) |
 | `--structure_csv` | Path to structure CSV |
 | `--data_path` | Root directory for all processed GIS and raster data |
 | `--tables_dir` | Root directory for all FEMA rating factor tables |

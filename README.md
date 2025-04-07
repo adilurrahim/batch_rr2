@@ -115,9 +115,3 @@ pip install -r requirements.txt
 ```
 
 ---
-
-### 📧 Questions?
-Open an issue or contact:
-**Md Adilur Rahim**  
-mrahim@agcenter.lsu.edu  
-LSU AgCenter

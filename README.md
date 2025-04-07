@@ -52,7 +52,7 @@ python scripts/main.py \
     --structure_csv data/structure_csv/mp23_pdd_clara_structure_info_costs_2024_06_18.csv \
     --data_path data/ProcessedData \
     --tables_dir scripts/rr2_tables \
-    --output_dir output/
+    --output_dir output \
     --column_setup full \
     --insurance \
     --occupancy_map data/OccupancyMapping/OccupancytoTypeofUseMapping.csv

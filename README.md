@@ -52,13 +52,15 @@ python scripts/main.py \
     --structure_csv data/structure_csv/mp23_pdd_clara_structure_info_costs_2024_06_18.csv \
     --data_path data/ProcessedData \
     --tables_dir scripts/rr2_tables \
+    --existing_geo \
     --output_dir output \
     --column_setup full \
-    --insurance \
-    --occupancy_map data/OccupancyMapping/OccupancytoTypeofUseMapping.csv
+    --insurance 25 \
+    --occupancy_map data/OccupancyMapping/OccupancytoTypeofUseMapping.csv \
+    --parallel
 ```
 
-> You can control which buildings to calculate insurance premiums for using the `--insurance` flag. If set, premiums will be calculated only for rows with has_insurance = `Yes` or `1` or `True`.
+> Use the --insurance flag to restrict calculations to insured structures only. If a number is provided (e.g., --insurance 25), it controls the number of iterations for stochastic assignment. If used without a value (i.e., --insurance), the default is 10 iterations.
 
 ---
 
@@ -72,16 +74,24 @@ python scripts/main.py \
 | `--structure_csv` | Path to structure CSV |
 | `--data_path` | Root directory for all processed GIS and raster data |
 | `--tables_dir` | Root directory for all FEMA rating factor tables |
+| `--existing_geo` | Path to existing geographic_df CSV file to skip extraction |
 | `--output_dir` | Path to save the results |
-| `--column_setup` | Choose between `premium` or `full` columns |
-| `--insurance` | Flag to calculate premiums for insured buildings only |
-| `--occupancy_map` | Optional occupancy mapping CSV |
+| `--column_setup` | Choose between `premium` (default) or `full` columns |
+| `--insurance` | Flag to calculate premiums for insured buildings only, number of iterations for insurance flag assignment  |
+| `--occupancy_map` | Optional: Path to occupancy-to-TypeOfUse mapping CSV |
+| `--parallel` | Optional: enable parallel processing of geographic attributes extraction |
+
+---
+
+### Output Files
+- rr2_geo_<year>_<plan>_<scenario>.csv: Geographic attributes for each structure
+- rr2_<year>_<plan>_<scenario>.csv: RR2 premium results
 
 ---
 
 ### Output Columns
 
-#### Column Setup: `premium`
+##### --column_setup premium
 - structure_id
 - Building Premium
 - Contents Premium
@@ -90,20 +100,10 @@ python scripts/main.py \
 - Community Rating Systems Discount
 - Full-Risk Premium
 
-#### Column Setup: `full`
+##### --column_setup full (adds geographic info)
 In addition to the above:
-- County
-- HUC12
-- CRS
-- LeveeSystemId
-- Elevation
-- StructRelElev
-- DTR
-- ElevRiver
-- ERR
-- DrainageArea
-- RiverClass
-- DTC
+- County, HUC12, CRS, LeveeSystemId, Elevation
+- StructRelElev, DTR, ElevRiver, ERR, DrainageArea, RiverClass, DTC
 
 ---
 
@@ -111,7 +111,7 @@ In addition to the above:
 ```
 Python 3.10+
 
-# Install packages
+# Install dependencies:
 pip install -r requirements.txt
 ```
 

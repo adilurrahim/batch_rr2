@@ -64,7 +64,7 @@ python scripts/main.py \
 
 ---
 
-### Customization via CLI
+#### Customization via CLI
 
 | Flag | Description |
 |------|-------------|
@@ -83,15 +83,15 @@ python scripts/main.py \
 
 ---
 
-### Output Files
+#### Output Files
 - `rr2_geo_<year>_<plan>_<scenario>.csv`: Geographic attributes for each structure
 - `rr2_<year>_<plan>_<scenario>.csv`: RR2 premium results
 
 ---
 
-### Output Columns
+#### Output Columns
 
-##### --column_setup premium
+#### --column_setup premium
 - structure_id
 - Building Premium
 - Contents Premium
@@ -100,14 +100,14 @@ python scripts/main.py \
 - Community Rating Systems Discount
 - Full-Risk Premium
 
-##### --column_setup full (adds geographic info)
+#### --column_setup full (adds geographic info)
 In addition to the above:
 - County, HUC12, CRS, LeveeSystemId, Elevation
 - StructRelElev, DTR, ElevRiver, ERR, DrainageArea, RiverClass, DTC
 
 ---
 
-### Python Requirements
+#### Python Requirements
 ```
 Python 3.10+
 

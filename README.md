@@ -84,8 +84,8 @@ python scripts/main.py \
 ---
 
 ### Output Files
-- 'rr2_geo_<year>_<plan>_<scenario>.csv': Geographic attributes for each structure
-- 'rr2_<year>_<plan>_<scenario>.csv': RR2 premium results
+- `rr2_geo_<year>_<plan>_<scenario>.csv`: Geographic attributes for each structure
+- `rr2_<year>_<plan>_<scenario>.csv`: RR2 premium results
 
 ---
 

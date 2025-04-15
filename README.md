@@ -70,8 +70,11 @@ python scripts/main.py \
 ```
 
 > Use the --insurance flag to restrict calculations to insured structures only. If a number is provided (e.g., --insurance 32), it controls the number of iterations for stochastic assignment. If used without a value (i.e., --insurance), the default is 10 iterations.
+
 > Add --parallel for faster geographic attribute extraction. 
+
 > Add --existing_geo to use precomputed geospatial attributes (if any).
+
 > Example inference scripts to batch-run premium calculations across multiple simulations using predefined bash commands are stored in infer_scripts folder.
 ---
 

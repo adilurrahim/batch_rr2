@@ -82,24 +82,24 @@ python scripts/main.py \
 
 | Flag | Description |
 |------|-------------|
-| `--years`         | List of years (`2 12 22 32 42 52`) |
-| `--plans`         | Scenario plans ( `FWOA FWMP`) |
-| `--scenarios`     | Scenarios (`Higher Lower`) |
-| `--structure_csv` | Path to structure CSV |
-| `--data_path`     | Root directory for all processed GIS and raster data |
-| `--tables_dir`    | Root directory for all FEMA rating factor tables |
-| `--existing_geo`  | Path to existing geographic_df CSV file to skip extraction |
-| `--output_dir`    | Path to save the results |
-| `--column_setup`  | Choose between `premium` (default) or `full` columns |
-| `--insurance`     | Flag to calculate premiums for insured buildings only, number of iterations for insurance flag assignment  |
-| `--occupancy_map` | Optional: Path to occupancy-to-TypeOfUse mapping CSV |
-| `--parallel`      | Optional: enable parallel processing of geographic attributes extraction |
+| `--years`           | List of years (`2 12 22 32 42 52`) |
+| `--plans`           | Scenario plans ( `FWOA FWMP`) |
+| `--scenarios`       | Scenarios (`Higher Lower`) |
+| `--structure_csv`   | Path to structure CSV |
+| `--data_path`       | Root directory for all processed GIS and raster data |
+| `--tables_dir`      | Root directory for all FEMA rating factor tables |
+| `--existing_geo`    | Path to existing geographic_df CSV file to skip extraction |
+| `--output_dir`      | Path to save the results |
+| `--column_setup`    | Choose between `premium` (default) or `full` columns |
+| `--insurance`       | Flag to calculate premiums for insured buildings only, number of iterations for insurance flag assignment  |
+| `--occupancy_map`   | Optional: Path to occupancy-to-TypeOfUse mapping CSV |
+| `--parallel`        | Optional: enable parallel processing of geographic attributes extraction |
 
 ---
 
 #### Output Files
-- `rr2_geo_<year>_<plan>_<scenario>.csv`: Geographic attributes for each structure
-- `rr2_<year>_<plan>_<scenario>.csv`: RR2 premium results
+- `MP2023_<scenario>_<plan>_C000_U00_V00_SLA_<year>_RR2_geo.csv`: Geographic attributes for each structure
+- `MP2023_<scenario>_<plan>_C000_U00_V00_SLA_<year>_RR2_prem.csv`: RR2 premium results
 
 ---
 

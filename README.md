@@ -7,12 +7,7 @@ This repository contains the **batch_rr2** model pipeline to estimate Risk Ratin
 
 ### 📦 Installation
 
-#### Method 1: With pip (future support planned)
-```bash
-pip install batch_rr2
-```
-
-#### Method 2: From the source (recommended)
+#### From the source (recommended)
 ```bash
 git clone https://github.com/adilurrahim/batch_rr2.git
 cd batch_rr2

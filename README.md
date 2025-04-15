@@ -60,7 +60,7 @@ data/
 
 ```bash
 python scripts/main.py \
-    --years 2 12 22 32 42 52 \
+    --years 12 22 32 42 52 \
     --plans FWOA FWMP \
     --scenarios Higher Lower \
     --structure_csv data/structure_csv/mp23_pdd_clara_structure_info_costs_2024_06_18.csv \
@@ -74,10 +74,10 @@ python scripts/main.py \
     --parallel
 ```
 
-> Use the --insurance flag to restrict calculations to insured structures only. If a number is provided (e.g., --insurance 25), it controls the number of iterations for stochastic assignment. If used without a value (i.e., --insurance), the default is 10 iterations.
+> Use the --insurance flag to restrict calculations to insured structures only. If a number is provided (e.g., --insurance 32), it controls the number of iterations for stochastic assignment. If used without a value (i.e., --insurance), the default is 10 iterations.
 > Add --parallel for faster geographic attribute extraction. 
-> Add --existing_geo to use precomputed geospatial attributes.
-
+> Add --existing_geo to use precomputed geospatial attributes (if any).
+> Example inference scripts to batch-run premium calculations across multiple simulations using predefined bash commands are stored in infer_scripts folder.
 ---
 
 #### Customization via CLI
@@ -136,7 +136,7 @@ In addition to the above:
 │   ├── insurance_utils.py
 │   ├── table_loader.py
 │   └── main.py
-├── infer_scripts/            	# Bash scripts to run example jobs
+├── infer_scripts/            	 # Bash scripts to run example jobs
 ├── requirements.txt
 ├── README.md
 ```

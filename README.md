@@ -1,6 +1,7 @@
 ## Batch RR2 Model Pipeline
 
-This repository contains the **batch_rr2** model pipeline to estimate Risk Rating 2.0 (RR2) flood insurance premiums using CPRA Coastal Master Plan 2023. The code extracts geographic attributes from structure coordinates and computes RR2 premiums.
+This repository contains the **batch_rr2** model pipeline to estimate Risk Rating 2.0 (RR2) flood insurance premiums using CPRA Coastal Master Plan 2023. This repository contains the batch_rr2 model pipeline to estimate FEMA’s Risk Rating 2.0 (RR2.0) flood insurance premiums at the structure level under multiple Coastal Master Plan scenarios. 
+
 
 ---
 
@@ -26,18 +27,31 @@ pip install -r requirements.txt
 
 #### Step 1: Project Structure
 ```
-├── data/                     	# Input structure CSVs, occupancy maps, processed data
-├── output/                   	# Output folder for premium calculations
-├── rr2_tables/               	# FEMA RR2 tables (CSV format)
-├── scripts/                  	# Main logic and functions
-│   ├── geographic_attributes.py
-│   ├── helper_functions.py
-│   ├── main.py
-│   ├── rr2_premium_functions.py
-│   └── table_loader.py
-├── infer_scripts/            	# Bash scripts to run example jobs
-├── requirements.txt
-├── README.md
+data/
+├── structure_csv/
+│   └── mp23_pdd_clara_structure_info_costs_2024_06_18.csv
+├── OccupancyMapping/
+│   └── OccupancytoTypeofUseMapping.csv
+├── InsurancePolicyDistribution/
+│   ├── ZipCodeData/
+│   │   └── tl_2021_us_zcta520.shp
+│   └── FEMAPolicyCounts/
+│       └── fema_risk-rating-zip-breakdown_2021.csv
+├── ProcessedData/
+│   └── CommonData/
+│       ├── County/
+│       ├── CRS/
+│       ├── FlowLine/
+│       ├── RiverPolygon/
+│       └── HUC12/
+│   └── ScenarioSpecificData/
+│       └── 2/
+│           └── FWOA/
+│               └── Lower/
+│                   ├── CoastLine/
+│                   ├── Elevation/
+│                   ├── FloodDepth/
+│                   └── Levee/
 ```
 
 ---
@@ -55,12 +69,14 @@ python scripts/main.py \
     --existing_geo \
     --output_dir output \
     --column_setup full \
-    --insurance 25 \
+    --insurance 32 \
     --occupancy_map data/OccupancyMapping/OccupancytoTypeofUseMapping.csv \
     --parallel
 ```
 
 > Use the --insurance flag to restrict calculations to insured structures only. If a number is provided (e.g., --insurance 25), it controls the number of iterations for stochastic assignment. If used without a value (i.e., --insurance), the default is 10 iterations.
+> Add --parallel for faster geographic attribute extraction. 
+> Add --existing_geo to use precomputed geospatial attributes.
 
 ---
 
@@ -91,7 +107,7 @@ python scripts/main.py \
 
 #### Output Columns
 
-#### --column_setup premium
+##### --column_setup premium
 - structure_id
 - Building Premium
 - Contents Premium
@@ -100,10 +116,30 @@ python scripts/main.py \
 - Community Rating Systems Discount
 - Full-Risk Premium
 
-#### --column_setup full (adds geographic info)
+##### --column_setup full (adds geographic info)
 In addition to the above:
 - County, HUC12, CRS, LeveeSystemId, Elevation
 - StructRelElev, DTR, ElevRiver, ERR, DrainageArea, RiverClass, DTC
+
+---
+
+#### 📁 Project Structure
+```
+├── data/                     	# Input structure CSVs, occupancy maps, processed data
+├── output/                   	# Output folder for premium calculations
+├── rr2_tables/               	# FEMA RR2 tables (CSV format)
+├── scripts/                  	# Main logic and functions
+│   ├── helper_functions.py
+│   ├── geographic_attributes_chunk.py   #for parallel processing
+│   ├── geographic_attributes.py
+│   ├── rr2_premium_functions.py
+│   ├── insurance_utils.py
+│   ├── table_loader.py
+│   └── main.py
+├── infer_scripts/            	# Bash scripts to run example jobs
+├── requirements.txt
+├── README.md
+```
 
 ---
 
@@ -114,5 +150,8 @@ Python 3.10+
 # Install dependencies:
 pip install -r requirements.txt
 ```
+
+---
+#### License
 
 ---
